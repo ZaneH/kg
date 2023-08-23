@@ -9,14 +9,9 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-<<<<<<< HEAD
-    baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
-=======
-    baseUrl: "notes.zaaane.com",
-    ignorePatterns: ["private", "templates"],
->>>>>>> 5f956040 (Basic outline of the code garden)
+    baseUrl: "zanes-kg.vercel.app",
     theme: {
       typography: {
         header: "Schibsted Grotesk",
@@ -57,7 +52,7 @@ const config: QuartzConfig = {
       Plugin.SyntaxHighlighting(),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
-      Plugin.CrawlLinks({ markdownLinkResolution: "absolute" }),
+      Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Latex({ renderEngine: "katex" }),
       Plugin.Description(),
     ],
