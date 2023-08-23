@@ -3,15 +3,20 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Notes",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
+<<<<<<< HEAD
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
+=======
+    baseUrl: "notes.zaaane.com",
+    ignorePatterns: ["private", "templates"],
+>>>>>>> 5f956040 (Basic outline of the code garden)
     theme: {
       typography: {
         header: "Schibsted Grotesk",
