@@ -36,7 +36,7 @@ Stay adaptable and keep learning as backend technologies evolve. This toolkit eq
 
 These are not vital for backend web development, but they are good to know about and can do cool things.
 
-- **WebSockets:** Enable real-time, bidirectional communication between clients and servers, making interactive features like live notifications and messaging possible.
+- **WebSockets (and/or [[code/topics/socketio-info|socket.io]]):** Enable real-time, bidirectional communication between clients and servers, making interactive features like live notifications and messaging possible.
 - **Threads:** Dive into multithreading to execute multiple tasks concurrently, improving application performance and responsiveness by utilizing the capabilities of modern processors.
 - **Serverless Computing:** Explore serverless platforms like AWS Lambda, Azure Functions, or Google Cloud Functions to build and deploy applications without worrying about server management, scaling, or provisioning.
 - **Microservices Architecture:** Understand the concept of breaking down applications into smaller, independent services that communicate with each other, providing scalability, fault isolation, and easier maintenance.

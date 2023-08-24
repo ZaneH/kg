@@ -87,7 +87,7 @@ Managing state usually isn't too difficult, but it requires a bit of thought to 
 
 These are not vital for frontend web development, but they are good to know about and can do cool things.
 
-- **WebSockets (and/or socket.io):** Enable real-time communication between clients and servers, facilitating interactive features like chat applications and live updates.
+- **WebSockets (and/or [[code/topics/socketio-info|socket.io]]):** Enable real-time communication between clients and servers, facilitating interactive features like chat applications and live updates.
 - **SSR (Server Side Rendering):** This is a loaded term, but think of it like this: Instead of the browser making the network calls to populate the pages content, SSR renders the page on the server and gives it to the client. This provides quite a few benefits. Next.js is known for this.
 - **LocalStorage:** Store key-value pairs in a user's browser for lightweight data persistence, useful for tasks like caching or storing user preferences.
 - **WebAssembly:** Compile languages like C, C++, or Rust to run code in the browser at near-native speed, unlocking high-performance web applications.
