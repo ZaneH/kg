@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     },
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
-    baseUrl: "zanes-kg.vercel.app",
+    baseUrl: "kg.zaaane.com",
     theme: {
       typography: {
         header: "Schibsted Grotesk",
