@@ -24,12 +24,16 @@ Much like security research, MEV "Searchers" have to think of ways to break and 
 
 ## Unsorted Reference Material
 
+- https://calblockchain.mirror.xyz/c56CHOu-Wow_50qPp2Wlg0rhUvdz1HLbGSUWlB_KX9o
 - https://github.com/CoinCulture/evm-tools/blob/master/analysis/guide.md
 - https://medium.com/@solidquant/first-key-to-building-mev-bots-your-simulation-engine-c9c0420d2e1
 - https://ethresear.ch/
 - https://timroughgarden.github.io/fob21/reports/r11.pdf
 - https://twitter.com/evmcheb/status/1694614312046997924?s=20 | https://github.com/evmcheb/friendrekt
 - https://github.com/evmcheb/ethers-rs-boilerplate
+- https://medium.com/@solidquant/what-i-learned-from-a-month-of-intensive-mev-bot-study-38a4e357da0b
+- https://medium.com/@solidquant/mev-templates-written-in-python-javascript-and-rust-ddd3d324d709
+- https://www.blocknative.com/simulation-platform
 
 ## Researchers
 
