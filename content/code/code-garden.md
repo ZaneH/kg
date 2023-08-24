@@ -66,3 +66,4 @@ Continuous learning is crucial to being a good programmer. Nobody knows everythi
     - How do I make the most of it?
 - [[code/common-questions/what-should-i-learn-next|What should I learn next?]]
 - [[code/common-questions/how-do-i-build-x|How do I build X?]]
+- How do I prevent and recover from burnout?

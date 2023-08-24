@@ -25,7 +25,7 @@ Here are the best tools I've come across for web scraping. The most complete lis
 
 ### Chromium
 
-Before reaching for a Chromium browser, make sure that it's required. Sometimes, the data I'm looking for is available in the plain text response. The easiest way to check is by turning off JavaScript for the site and using the Developer Tools to `Cmd+F` and search for the data in the HTML code.
+Before reaching for a Chromium browser, make sure that it's required. Sometimes, the data I'm looking for is available in the plain text response. The easiest way to check is by turning off JavaScript for the site and using the Developer Tools to <kbd>Cmd+F</kbd> and search for the data in the HTML code.
 
 - **Playwright:** Great for E2E tests, but also great for web crawling! Waiting for elements to appear on-screen, scrolling, etc. It's the gold standard for Headless Chromium.
 - **Puppeteer:** An alternative to Playwright. This one is my preference because of...
