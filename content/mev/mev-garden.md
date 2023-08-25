@@ -35,9 +35,8 @@ Much like security research, MEV "Searchers" have to think of ways to break and 
 - https://medium.com/@solidquant/mev-templates-written-in-python-javascript-and-rust-ddd3d324d709
 - https://www.blocknative.com/simulation-platform
 - https://noxx.substack.com/p/mev-memoirs-into-the-arena-chapter-3e9?r=1bwfia&s=w
-- https://twitter.com/DeGatchi
-    - https://github.com/DeGatchi/mev-template-rs
-    - https://github.com/refcell/subway-rs
+- https://github.com/DeGatchi/mev-template-rs
+- https://github.com/refcell/subway-rs
 
 ## Researchers
 
@@ -45,3 +44,4 @@ Much like security research, MEV "Searchers" have to think of ways to break and 
 - https://twitter.com/rage_pit
 - https://twitter.com/transmissions11
 - https://twitter.com/mikeneuder
+- https://twitter.com/DeGatchi
