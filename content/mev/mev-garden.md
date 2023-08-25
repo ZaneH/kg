@@ -8,7 +8,7 @@ Miner Extractable Value (MEV) is the profit a miner can make through their abili
 
 ## Motivation
 
-I stumbled on [this tweet](https://twitter.com/BadPie1/status/1693684478638440525?s=20) that made ~80ETH from sniping shares on a new platform called friend.tech. Someone in the comments made another ~100ETH. This may not be classified as MEV, but it is the same idea in some respects.
+I stumbled on [this tweet](https://twitter.com/BadPie1/status/1693684478638440525?s=20) that made ~80ETH from sniping shares on a new platform called friend.tech. Someone in the comments made another ~100ETH. This may not be classified as MEV, but it is the same idea in many respects.
 
 Because this was a new platform that was gaining a lot of attention, the motivated searchers were able to find new opportunities and act on them. In hindsight, it was a very simple opportunity that was ripe for the taking.
 
