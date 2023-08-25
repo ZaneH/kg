@@ -5,7 +5,7 @@ title: Code Garden
 This is a lot of what I know about programming compressed down into a knowledge garden. I wish someone had given me this when I first started learning to code. Hopefully it can be a helpful guide or resource to someone from the future. Sprinkled in is my own personal preferences and recommendations.
 
 >[!important]
->If there's one tip that applies to everything in software it's this: [RTFM](https://en.wikipedia.org/wiki/RTFM). Reading through documentation will answer ~80% of all questions. StackOverflow will answer another ~15%.
+>If there's one tip that applies to everything in software it's this: [RTFM](https://en.wikipedia.org/wiki/RTFM). Reading through documentation will answer ~80% of all questions. StackOverflow will answer another ~15%. Just *read*.
 
 ## Hello, World!
 
@@ -16,7 +16,7 @@ The next steps are to learn about variables, functions, and control flow. These 
 >[!important]
 >If you haven't already, create a GitHub & StackOverflow account. They're both free and will be useful for the rest of your programming career.
 
-## Introductions
+## Overview
 
 - [[code/overview/frontend-web-development|Frontend Web Development]] (design and code)
 - [[code/overview/backend-web-development|Backend Web Development]] (data and code)
@@ -27,6 +27,7 @@ The next steps are to learn about variables, functions, and control flow. These 
 - [[code/overview/web-design|Web Design]] (design)
 - [[code/overview/ai-assisted-programming|AI Assisted Programming]] (code)
 - [[code/overview/game-programming|Game Programming]] (design and code)
+- [[code/questions|Common Programmer Questions]]
 
 ## Leveling Up
 
@@ -48,22 +49,3 @@ Continuous learning is crucial to being a good programmer. Nobody knows everythi
 - **Read technical and non-technical books.** There's a lot of great info in books.
 - **Learn from others.** Pair programming is a great way to learn from others.
 - **Experiment for fun.** Try new things and see what happens.
-
-## Common Questions
-
-- [[code/common-questions/what-programming-language-should-i-learn-first|What programming language should I learn?]]
-- [[code/common-questions/when-am-i-ready-to-apply-for-a-job|When am I ready to apply for a job?]]
-    - Do I need a degree?
-    - How do I get past imposter syndrome?
-    - How do I build a portfolio?
-    - How do I network?
-- [[code/common-questions/how-do-i-get-a-job|How do I get a job?]]
-    - What industry should I work in?
-    - What company should I work for?
-    - What role should I apply for?
-    - How do I write a resume?
-    - How should I prepare for an interview?
-    - How do I make the most of it?
-- [[code/common-questions/what-should-i-learn-next|What should I learn next?]]
-- [[code/common-questions/how-do-i-build-x|How do I build X?]]
-- How do I prevent and recover from burnout?

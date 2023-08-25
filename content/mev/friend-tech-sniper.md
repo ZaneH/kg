@@ -1,6 +1,6 @@
 ---
 title: friend.tech Sniper
-tags: alpha, back-running, mempool, mev
+tags: alpha, back-running, mempool, mev, bots
 ---
 
 ## Introduction
