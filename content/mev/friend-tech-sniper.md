@@ -38,7 +38,7 @@ let mempool_client = Provider::<Ws>::connect("wss://base-mainnet.blastapi.io/{PR
 let fasthttp = fasthttp::FastHttp::new("https://mainnet-sequencer.base.org/".to_string());
 ...
 // subscribe to pending txs (alpha for back-running)
-let stream = wsclient.subscribe_pending_txs().await.unwrap();
+let mempool_stream = mempool_client.subscribe_pending_txs().await.unwrap();
 ...
 ```
 
