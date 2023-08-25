@@ -7,7 +7,7 @@ tags: alpha, back-running, mempool, mev
 
 I stumbled on [this tweet](https://twitter.com/BadPie1/status/1693684478638440525?s=20) that made ~80ETH from sniping shares on a new platform called friend.tech. Someone in the comments made another ~100ETH.
 
-After some further digging, [this tweet](https://twitter.com/evmcheb/status/1694614245516955709?s=20) explained how it was done. As an exercise, I decided to further elaborate on the flaw and how people used it to make some serious money.
+After some further digging, [this tweet](https://twitter.com/evmcheb/status/1694614245516955709?s=20) explained how it was done. As an exercise, I decided to further elaborate on the flaw and how people used it to make some serious money. There's also a repo I'm using to recreate evmcheb's friendrekt repo [here](https://github.com/buidlcat/friendrekt).
 
 ## The Flaw
 
