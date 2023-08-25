@@ -20,7 +20,7 @@ My motivation comes from these kinds of stories– developers who built a bot th
 
 The space is competitive but there isn't a bot that can act on every opportunity. There are also actors who target specific bots and try to exploit them (see [Uncle Bandit Attacks](https://www.mev.wiki/attack-examples/uncle-bandit-attack).) This is a cat and mouse game that will continue to evolve. There is a lot of research and "alpha" to be found that increases the chances of success.
 
-Much like security research, MEV "Searchers" have to think of ways to break and abuse systems (a.k.a. Hackers.) This is a specific mindset and requires creativity and patience. Once an opportunity is found, it's up to the searcher to build a bot that can act on it. This is a whole other skill that involves simulations, on-chain data parsing, mempools, transaction construction, and out of the box thinking.
+Much like security research, MEV "Searchers" have to think of ways to break and abuse systems. This is a specific mindset and requires creativity and patience. Once an opportunity is found, it's up to the searcher to build a bot that can act on it. This is a whole other skill that involves simulations, on-chain data parsing, mempools, transaction construction, and out of the box thinking.
 
 ## Unsorted Reference Material
 
@@ -34,6 +34,10 @@ Much like security research, MEV "Searchers" have to think of ways to break and 
 - https://medium.com/@solidquant/what-i-learned-from-a-month-of-intensive-mev-bot-study-38a4e357da0b
 - https://medium.com/@solidquant/mev-templates-written-in-python-javascript-and-rust-ddd3d324d709
 - https://www.blocknative.com/simulation-platform
+- https://noxx.substack.com/p/mev-memoirs-into-the-arena-chapter-3e9?r=1bwfia&s=w
+- https://twitter.com/DeGatchi
+    - https://github.com/DeGatchi/mev-template-rs
+    - https://github.com/refcell/subway-rs
 
 ## Researchers
 
