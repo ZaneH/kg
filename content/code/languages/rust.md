@@ -4,7 +4,7 @@ title: Learning Rust
 
 ## Motivation
 
-The motivation for learning Rust was slow to develop. There isn't really a reason I'd use Rust over another language until now. I've been interested in [[mev/mev-garden|MEV bots]] the last few years and it's clear that Rust is the language of choice for the pros. Now that I have time to dive in, I'm excited to learn more about the language and the ecosystem.
+The motivation for learning Rust was slow to develop. There isn't really a reason I'd use Rust over another language until now. I've been interested in [[mev/garden|MEV bots]] the last few years and it's clear that Rust is the language of choice for the pros. Now that I have time to dive in, I'm excited to learn more about the language and the ecosystem.
 
 ## Initial Thoughts
 
