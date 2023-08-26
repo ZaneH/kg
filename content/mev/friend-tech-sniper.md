@@ -57,7 +57,7 @@ By using [friendrekt by evmcheb](https://github.com/evmcheb/friendrekt) we can u
 2. Check for pending transactions that are relevant and asynchronously fetch Twitter followers for the ETH address. This is done by first using [prod-api.kosetto.com](https://prod-api.kosetto.com/users/0xa9c8e1bb3b13264410da8923cfe48e795d1f1d60) which is operated by friend.tech. Then a call to the Twitter API is made to get the follower count.
 3. Check if the transaction is a share purchase.
     - If it is, check the `shareSupply` to see if it's worth targeting.
-    - A `supply_limit` is set at different levels depending on the number of followers.
+    - A `supply_limit` is set at different levels depending on the number of followers. If the amount of shares bought is past the `supply_limit`, it's not worth targeting.
 4. If the shares are worth targeting, back-run the transaction
     - This is done with a smart contract called `Sniper.sol`.
     - In the friendrekt demo, I don't believe there is any back-running happening in its current state. But a lot of the ideas are there.

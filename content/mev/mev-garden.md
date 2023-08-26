@@ -6,6 +6,10 @@ title: MEV Garden
 
 Miner Extractable Value (MEV) is the profit a miner can make through their ability to arbitrarily include, exclude, or re-order transactions within the blocks they produce. This is a new phenomenon that has only been possible since the introduction of smart contracts and decentralized exchanges. It is a hot topic in the Ethereum community and is being actively researched.
 
+Lots of the professionals are using Rust to build their bots. This is because Rust is faster than other languages and speed is pretty important when it comes to PvP situations.
+
+- [[code/languages/rust|Learning Rust]]
+
 ## Motivation
 
 I stumbled on [this tweet](https://twitter.com/BadPie1/status/1693684478638440525?s=20) that made ~80ETH from sniping shares on a new platform called friend.tech. Someone in the comments made another ~100ETH. This may not be classified as MEV, but it is the same idea in many respects.
