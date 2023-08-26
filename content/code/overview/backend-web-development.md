@@ -5,7 +5,7 @@ tags: backend, code
 
 ## The Rundown
 
-Similar to frontend development, backend web development relies on essential technologies that form the backbone of robust web applications. These tools handle data, logic, and server operations. The most popular tools I see in the current job market are Golang and Node.js. Golang is better in performance and Node.js is more accessible to devs (because it uses JavaScript.)
+Similar to frontend development, backend web development relies on essential technologies that form the backbone of robust web applications. These tools handle data, logic, and server operations. The most popular tools I see in the current job market are Golang and Node.js. Golang is better in performance and Node.js is more accessible to devs (because it uses JavaScript.) [[code/languages/rust|Rust]] has been growing in popularity for it's type-safety and superior performance but there are not as many jobs available yet.
 
 ### Requirements
 
