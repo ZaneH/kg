@@ -12,7 +12,7 @@ The motivation for learning Rust was slow to develop. There isn't really a reaso
 - The `Result<...>` pattern matching is very similar to Elixir.
     - `.unwrap()` is starting to make sense.
 - The error messages are very helpful once you can parse them.
-- Understand the `Ok(())` syntax was useful.
+- Understanding the `Ok(())` syntax was useful.
 - `tokio` was intimidating at first, but it's not that bad.
 - I still don't fully understand `Mutex`, but my iOS background taught me about `Arc`.
 - Starting to understand the build system + cargo. It's nice.
