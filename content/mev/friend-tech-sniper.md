@@ -62,3 +62,12 @@ By using [friendrekt by evmcheb](https://github.com/evmcheb/friendrekt) we can u
 4. If the shares are worth targeting, back-run the transaction
     - This is done with a smart contract called `Sniper.sol`.
     - In the friendrekt demo, I don't believe there is any back-running happening in its current state. But a lot of the ideas are there.
+
+## Thoughts
+
+- I imagine the `FIFOCache` should be more than 10 entries. 100 or 1,000 wouldn't take that much more memory and would increase the odds of finding a target quickly.
+- The `supply_limit` is a good idea, but now that everyone has this knowledge, additional logic should be added to optimize for profit.
+- The original code looks like it was written in a rush. I'm no Rust expert, but I think it could be improved.
+- friend.tech was quickly "saturated" by bots who knew about the repository that I based this article on. That's interesting. There are also adversaries who are trying to drain bots. Interesting.
+- I now realize that the `&relay_tx_sig` is an event from the L2 bridging mechanism. I think it's used in preparing for someone signing up to friend.tech. Again, increasing the `FIFOCache` seems like a good idea considering how long this could take.
+- $BASE is a new chain. This brings new opportunity and I can understand why this knowledge is not being advertised. There are people making serious beans on-chain.
