@@ -16,3 +16,4 @@ The motivation for learning Rust was slow to develop. There isn't really a reaso
 - `tokio` was intimidating at first, but it's not that bad.
 - I still don't fully understand `Mutex`, but my iOS background taught me about `Arc`.
 - Starting to understand the build system + cargo. It's nice.
+- [The Dev Method](https://www.youtube.com/watch?v=pGh-0cMvH5g&list=PLAJ-sYO1aGdxQ_skPPtJ7PlSAjTXM-atv) has a good playlist on Rust. It's definitely helping my understanding.
