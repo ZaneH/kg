@@ -65,7 +65,8 @@ By using [friendrekt by evmcheb](https://github.com/evmcheb/friendrekt) we can u
 
 ## Thoughts
 
-- I imagine the `FIFOCache` should be more than 10 entries. 100 or 1,000 wouldn't take that much more memory and would increase the odds of finding a target quickly.
+- <s>I imagine the `FIFOCache` should be more than 10 entries. 100 or 1,000 wouldn't take that much more memory and would increase the odds of finding a target quickly.</s>
+    - Correction: The `FIFOCache` is being used to deduplicate WebSocket transactions, not store Twitter followers. The `HashMap` is used to store Twitter followers. [(Source)](https://github.com/evmcheb/friendrekt/issues/1#issuecomment-1695455611)
 - The `supply_limit` is a good idea, but now that everyone has this knowledge, additional logic should be added to optimize for profit.
 - The original code looks like it was written in a rush. I'm no Rust expert, but I think it could be improved.
 - friend.tech was quickly "saturated" by bots who knew about the repository that I based this article on. That's interesting. There are also adversaries who are trying to drain bots. Interesting.
