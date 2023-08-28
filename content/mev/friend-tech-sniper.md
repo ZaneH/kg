@@ -70,7 +70,7 @@ By using [friendrekt by evmcheb](https://github.com/evmcheb/friendrekt) we can u
 - The `supply_limit` is a good idea, but now that everyone has this knowledge, additional logic should be added to optimize for profit.
 - The original code looks like it was written in a rush. I'm no Rust expert, but I think it could be improved.
 - friend.tech was quickly "saturated" by bots who knew about the repository that I based this article on. That's interesting. There are also adversaries who are trying to drain bots. Interesting.
-- I now realize that the `&relay_tx_sig` is an event from the L2 bridging mechanism. I think it's used in preparing for someone signing up to friend.tech.
+- I now realize that the `&relay_tx_sig` is an event from the L2 bridging mechanism. I think it's used in preparation for someone signing up to friend.tech.
 - $BASE is a new chain. This brings new opportunity and I can understand why this knowledge is not being advertised (shoutout to [@bertcmiller for advertising this too](https://twitter.com/bertcmiller/status/1695050338171015644?s=20).) There are people making serious beans on-chain. I thought L2 MEV was going to be impossible, but I was wrong. I'm excited to see what happens next.
 - The goal is to find "long tail" MEV opportunities. This is a good example of that, but only if you were early. I think there are more opportunities like this out there. I'm going to keep looking. There are some good ideas I've found to find other long tail opportunities:
     - Look for transactions with low miner fees (these are less competitive MEV strategies.)
