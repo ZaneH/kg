@@ -41,6 +41,13 @@ Much like security research, MEV "Searchers" have to think of ways to break and 
 - https://noxx.substack.com/p/mev-memoirs-into-the-arena-chapter-3e9?r=1bwfia&s=w
 - https://github.com/DeGatchi/mev-template-rs
 - https://github.com/refcell/subway-rs
+- https://medium.com/@solidquant/how-i-spend-my-days-mempool-watching-part-1-transaction-prediction-through-evm-tracing-77f4c99207f
+
+### Diving Deeper
+
+- https://medium.com/@solidquant/up-your-mev-game-by-using-assembly-93c31b06cf96
+- https://docs.huff.sh/tutorial/evm-basics/#technical
+- https://github.com/darkforestry/amms-rs/tree/main
 
 ## Researchers
 
