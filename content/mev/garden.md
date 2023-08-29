@@ -49,6 +49,11 @@ Much like security research, MEV "Searchers" have to think of ways to break and 
 - https://docs.huff.sh/tutorial/evm-basics/#technical
 - https://github.com/darkforestry/amms-rs/tree/main
 
+### CTFs
+
+- https://github.com/RareSkills/huff-puzzles
+- https://ethernaut.openzeppelin.com/
+
 ## Researchers
 
 - https://twitter.com/evmcheb
