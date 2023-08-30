@@ -60,6 +60,10 @@ Much like security research, MEV "Searchers" have to think of ways to break and 
 - https://blog.uniswap.org/uniswap-v3-math-primer
 - https://www.youtube.com/@smartcontractprogrammer/videos
 
+### Web Tools
+- [ETH Calldata Decoder](https://calldata-decoder.apoorv.xyz/)
+- [Keccak-256 Tool](https://emn178.github.io/online-tools/keccak_256.html)
+
 ## Researchers
 
 - https://twitter.com/evmcheb
