@@ -4,7 +4,7 @@ title: MEV Garden
 
 ## Introduction
 
-Miner Extractable Value (MEV) is the profit a miner can make through their ability to arbitrarily include, exclude, or re-order transactions within the blocks they produce. This is a new phenomenon that has only been possible since the introduction of smart contracts and decentralized exchanges. It is a hot topic in the Ethereum community and is being actively researched.
+Maximal Extractable Value (MEV) is the profit made by arbitrarily including, excluding, or re-ordering transactions on the blockchain. This is a new phenomenon that has only been possible since the introduction of smart contracts and decentralized exchanges. It is a hot topic in the Ethereum community and is being actively researched.
 
 Lots of the professionals are using Rust to build their bots. This is because Rust is faster than other languages and speed is pretty important when it comes to PvP situations.
 
@@ -37,7 +37,6 @@ Much like security research, MEV "Searchers" have to think of ways to break and 
 - https://github.com/evmcheb/ethers-rs-boilerplate
 - https://medium.com/@solidquant/what-i-learned-from-a-month-of-intensive-mev-bot-study-38a4e357da0b
 - https://medium.com/@solidquant/mev-templates-written-in-python-javascript-and-rust-ddd3d324d709
-- https://www.blocknative.com/simulation-platform
 - https://noxx.substack.com/p/mev-memoirs-into-the-arena-chapter-3e9?r=1bwfia&s=w
 - https://github.com/DeGatchi/mev-template-rs
 - https://github.com/refcell/subway-rs
@@ -48,6 +47,7 @@ Much like security research, MEV "Searchers" have to think of ways to break and 
 - https://medium.com/@solidquant/up-your-mev-game-by-using-assembly-93c31b06cf96
 - https://docs.huff.sh/tutorial/evm-basics/#technical
 - https://github.com/rainshowerLabs/sothis#fast-track
+- [Decoding calldata, bytecode, MEV bots, etc. (deep dive)](https://mirror.xyz/wschwab.eth/CjODHmpDMTbZsAACyFJyFJkB3YakZqH8KUko4AOTMkA)
 
 ### CTFs
 
@@ -60,9 +60,25 @@ Much like security research, MEV "Searchers" have to think of ways to break and 
 - https://blog.uniswap.org/uniswap-v3-math-primer
 - https://www.youtube.com/@smartcontractprogrammer/videos
 
+### Simulation Services
+
+- https://www.blocknative.com/simulation-platform
+- https://tenderly.co/
+
+### Whitehat Static Analysis
+
+- https://github.com/crytic/slither
+- [Dedaub Byecode Decompiler](https://library.dedaub.com/ethereum/address/0xbadc0defafcf6d4239bdf0b66da4d7bd36fcf05a/decompiled)
+- [ethervm.io Decompiler](https://ethervm.io/decompile/0xDd6Bd08c29fF3EF8780bF6A10D8b620A93AC5705)
+    - Can decode common/public function names
+
 ### Web Tools
 - [ETH Calldata Decoder](https://calldata-decoder.apoorv.xyz/)
 - [Keccak-256 Tool](https://emn178.github.io/online-tools/keccak_256.html)
+
+### Bootcamps and Academies
+
+- https://yacademy.dev/fellowships/
 
 ## Researchers
 
