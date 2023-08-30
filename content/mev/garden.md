@@ -47,12 +47,18 @@ Much like security research, MEV "Searchers" have to think of ways to break and 
 
 - https://medium.com/@solidquant/up-your-mev-game-by-using-assembly-93c31b06cf96
 - https://docs.huff.sh/tutorial/evm-basics/#technical
-- https://github.com/darkforestry/amms-rs/tree/main
+- https://github.com/rainshowerLabs/sothis#fast-track
 
 ### CTFs
 
 - https://github.com/RareSkills/huff-puzzles
 - https://ethernaut.openzeppelin.com/
+
+### AMMs
+
+- https://github.com/darkforestry/amms-rs/tree/main
+- https://blog.uniswap.org/uniswap-v3-math-primer
+- https://www.youtube.com/@smartcontractprogrammer/videos
 
 ## Researchers
 
@@ -61,3 +67,4 @@ Much like security research, MEV "Searchers" have to think of ways to break and 
 - https://twitter.com/transmissions11
 - https://twitter.com/mikeneuder
 - https://twitter.com/DeGatchi
+- https://twitter.com/0xmouseless
