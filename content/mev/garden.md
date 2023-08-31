@@ -130,4 +130,4 @@ Much like security research, MEV "Searchers" have to think of ways to break and 
 ## Thoughts While Practicing
 - A tool to export all enums/structs from a Solidity file would be nice
 - MEV feel more like a game than a profession. During my short journey, I think I've noticed what I really enjoy– it's the puzzle and the reward.
-    - [[code/topics/blocksec/garden|Whitehat]] security research looks quite appealing. There's a lot of funds to protect and the space is still young. I think I'll start looking into this more.
+    - [[code/topics/blocksec/garden|Whitehat security research]] looks quite appealing. There's a lot of funds to protect and the space is still young. I think I'll start looking into this more.
