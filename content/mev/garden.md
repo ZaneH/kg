@@ -61,7 +61,7 @@ Much like security research, MEV "Searchers" have to think of ways to break and 
 ## CTFs and Challenges
 
 - [Huff challenges (easy to hard)](https://github.com/RareSkills/huff-puzzles)
-- [Smart contract challenges (easy to hard)](https://ethernaut.openzeppelin.com/)
+- [Ethernaut - Smart contract CTF (easy to hard)](https://ethernaut.openzeppelin.com/)
 
 ---
 
