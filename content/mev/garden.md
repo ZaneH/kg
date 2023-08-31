@@ -49,7 +49,7 @@ Much like security research, MEV "Searchers" have to think of ways to break and 
 - https://github.com/rainshowerLabs/sothis#fast-track
 - [Decoding calldata, bytecode, MEV bots, etc. (deep dive)](https://mirror.xyz/wschwab.eth/CjODHmpDMTbZsAACyFJyFJkB3YakZqH8KUko4AOTMkA)
 
-### CTFs
+### CTFs and Challenges
 
 - https://github.com/RareSkills/huff-puzzles
 - https://ethernaut.openzeppelin.com/
@@ -70,7 +70,7 @@ Much like security research, MEV "Searchers" have to think of ways to break and 
 - https://github.com/crytic/slither
 - [Dedaub Byecode Decompiler](https://library.dedaub.com/ethereum/address/0xbadc0defafcf6d4239bdf0b66da4d7bd36fcf05a/decompiled)
 - [ethervm.io Decompiler](https://ethervm.io/decompile/0xDd6Bd08c29fF3EF8780bF6A10D8b620A93AC5705)
-    - Can decode common/public function names
+    - Helpful for harder to read contracts
 
 ### Web Tools
 - [ETH Calldata Decoder](https://calldata-decoder.apoorv.xyz/)
@@ -88,3 +88,6 @@ Much like security research, MEV "Searchers" have to think of ways to break and 
 - https://twitter.com/mikeneuder
 - https://twitter.com/DeGatchi
 - https://twitter.com/0xmouseless
+
+### Thoughts While Practicing
+- A tool to export all enums/structs from a Solidity file would be nice
