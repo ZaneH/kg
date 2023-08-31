@@ -73,8 +73,15 @@ Much like security research, MEV "Searchers" have to think of ways to break and 
     - Helpful for harder to read contracts
 
 ### Web Tools
+
+#### Encoding
+
 - [ETH Calldata Decoder](https://calldata-decoder.apoorv.xyz/)
 - [Keccak-256 Tool](https://emn178.github.io/online-tools/keccak_256.html)
+
+#### Explorers
+
+- [ETHtx](https://ethtx.info/mainnet/0xb52668345b575b2baedd2801d13b6bac25fc594ec7e8ed1776f47d1200e3ebb9/)
 
 ### Bootcamps and Academies
 
@@ -91,3 +98,5 @@ Much like security research, MEV "Searchers" have to think of ways to break and 
 
 ### Thoughts While Practicing
 - A tool to export all enums/structs from a Solidity file would be nice
+- MEV feel more like a game than a profession. During my short journey, I think I've noticed what I really enjoy– it's the puzzle and the reward.
+    - [[code/topics/blocksec/garden|Whitehat]] security research looks quite appealing. There's a lot of funds to protect and the space is still young. I think I'll start looking into this more.
