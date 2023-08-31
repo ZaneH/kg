@@ -26,77 +26,106 @@ The space is competitive but there isn't a bot that can act on every opportunity
 
 Much like security research, MEV "Searchers" have to think of ways to break and abuse systems. This is a specific mindset and requires creativity and patience. Once an opportunity is found, it's up to the searcher to build a bot that can act on it. This is a whole other skill that involves simulations, on-chain data parsing, mempools, transaction construction, and out of the box thinking.
 
-## Unsorted Reference Material
+## Unsorted Material
 
-- https://calblockchain.mirror.xyz/c56CHOu-Wow_50qPp2Wlg0rhUvdz1HLbGSUWlB_KX9o
-- https://github.com/CoinCulture/evm-tools/blob/master/analysis/guide.md
-- https://medium.com/@solidquant/first-key-to-building-mev-bots-your-simulation-engine-c9c0420d2e1
-- https://ethresear.ch/
-- https://timroughgarden.github.io/fob21/reports/r11.pdf
-- https://twitter.com/evmcheb/status/1694614312046997924?s=20 | https://github.com/evmcheb/friendrekt
-- https://github.com/evmcheb/ethers-rs-boilerplate
-- https://medium.com/@solidquant/what-i-learned-from-a-month-of-intensive-mev-bot-study-38a4e357da0b
-- https://medium.com/@solidquant/mev-templates-written-in-python-javascript-and-rust-ddd3d324d709
-- https://noxx.substack.com/p/mev-memoirs-into-the-arena-chapter-3e9?r=1bwfia&s=w
-- https://github.com/DeGatchi/mev-template-rs
-- https://github.com/refcell/subway-rs
-- https://medium.com/@solidquant/how-i-spend-my-days-mempool-watching-part-1-transaction-prediction-through-evm-tracing-77f4c99207f
+- [friendrekt by evmcheb](https://twitter.com/evmcheb/status/1694614312046997924?s=20)
+    - [GitHub repo](https://github.com/evmcheb/friendrekt)
 
-### Diving Deeper
+---
 
-- https://medium.com/@solidquant/up-your-mev-game-by-using-assembly-93c31b06cf96
-- https://docs.huff.sh/tutorial/evm-basics/#technical
-- https://github.com/rainshowerLabs/sothis#fast-track
+## Introduction
+
+- [The 0 to 1 Guide for MEV](https://calblockchain.mirror.xyz/c56CHOu-Wow_50qPp2Wlg0rhUvdz1HLbGSUWlB_KX9o)
+- [What I learned from a month of intensive MEV bot study (by @SolidQuant)](https://medium.com/@solidquant/what-i-learned-from-a-month-of-intensive-mev-bot-study-38a4e357da0b)
+- [Transaction prediction through EVM tracing (by @SolidQuant)](https://medium.com/@solidquant/how-i-spend-my-days-mempool-watching-part-1-transaction-prediction-through-evm-tracing-77f4c99207f)
+- [Simulate DEX trades](https://medium.com/@solidquant/first-key-to-building-mev-bots-your-simulation-engine-c9c0420d2e1)
+
+### Templates
+
+- [Rust sandwich bot template](https://github.com/refcell/subway-rs)
+- [MEV templates in Python, Javascript, and Rust (by @SolidQuant)](https://medium.com/@solidquant/mev-templates-written-in-python-javascript-and-rust-ddd3d324d709)
+- [Rust MEV template](https://github.com/DeGatchi/mev-template-rs)
+- [ethers-rs boilerplate](https://github.com/evmcheb/ethers-rs-boilerplate)
+
+## Diving Deeper
+
+- [Using assembly to reduce your gas costs (by @SolidQuant)](https://medium.com/@solidquant/up-your-mev-game-by-using-assembly-93c31b06cf96)
+- [Huff Guide - EVM Basics](https://docs.huff.sh/tutorial/evm-basics/#technical)
+- [Sothis - Replay and track historical state](https://github.com/rainshowerLabs/sothis)
 - [Decoding calldata, bytecode, MEV bots, etc. (deep dive)](https://mirror.xyz/wschwab.eth/CjODHmpDMTbZsAACyFJyFJkB3YakZqH8KUko4AOTMkA)
+- [Unearthing Alpha through Decompiled Contracts](https://noxx.substack.com/p/mev-memoirs-into-the-arena-chapter-3e9?r=1bwfia&s=w)
+- [MEV on L2 paper](https://timroughgarden.github.io/fob21/reports/r11.pdf)
 
-### CTFs and Challenges
+---
 
-- https://github.com/RareSkills/huff-puzzles
-- https://ethernaut.openzeppelin.com/
+## CTFs and Challenges
 
-### AMMs
+- [Huff challenges (easy to hard)](https://github.com/RareSkills/huff-puzzles)
+- [Smart contract challenges (easy to hard)](https://ethernaut.openzeppelin.com/)
 
-- https://github.com/darkforestry/amms-rs/tree/main
-- https://blog.uniswap.org/uniswap-v3-math-primer
-- https://www.youtube.com/@smartcontractprogrammer/videos
+---
 
-### Simulation Services
+## AMMs
 
-- https://www.blocknative.com/simulation-platform
-- https://tenderly.co/
+- [Rust lib for various AMMs](https://github.com/darkforestry/amms-rs/tree/main)
+- [Uniswap v3 math blog](https://blog.uniswap.org/uniswap-v3-math-primer)
+- [Uniswap v3 math videos](https://www.youtube.com/@smartcontractprogrammer/videos)
 
-### Whitehat Static Analysis
+---
 
-- https://github.com/crytic/slither
-- [Dedaub Byecode Decompiler](https://library.dedaub.com/ethereum/address/0xbadc0defafcf6d4239bdf0b66da4d7bd36fcf05a/decompiled)
-- [ethervm.io Decompiler](https://ethervm.io/decompile/0xDd6Bd08c29fF3EF8780bF6A10D8b620A93AC5705)
+## Simulation Services
+
+- [blocknative.com](https://www.blocknative.com/simulation-platform)
+- [tenderly.co](https://tenderly.co/)
+
+---
+
+## Static Analysis
+
+- [Slither - Static analyzer for Solidity](https://github.com/crytic/slither)
+- [Dedaub byecode decompiler](https://library.dedaub.com/ethereum/address/0xbadc0defafcf6d4239bdf0b66da4d7bd36fcf05a/decompiled)
+- [ethervm.io decompiler](https://ethervm.io/decompile/0xDd6Bd08c29fF3EF8780bF6A10D8b620A93AC5705)
     - Helpful for harder to read contracts
 
-### Web Tools
+---
 
-#### Encoding
+## Web Tools
+
+### Encoding
 
 - [ETH Calldata Decoder](https://calldata-decoder.apoorv.xyz/)
 - [Keccak-256 Tool](https://emn178.github.io/online-tools/keccak_256.html)
 
-#### Explorers
+### Explorers
 
 - [ETHtx](https://ethtx.info/mainnet/0xb52668345b575b2baedd2801d13b6bac25fc594ec7e8ed1776f47d1200e3ebb9/)
 
-### Bootcamps and Academies
+---
 
-- https://yacademy.dev/fellowships/
+## Bootcamps and Academies
+
+- [yAcademy fellowship](https://yacademy.dev/fellowships/)
+
+---
 
 ## Researchers
 
-- https://twitter.com/evmcheb
-- https://twitter.com/rage_pit
-- https://twitter.com/transmissions11
-- https://twitter.com/mikeneuder
-- https://twitter.com/DeGatchi
-- https://twitter.com/0xmouseless
+- [@evmcheb](https://twitter.com/evmcheb)
+- [@rage_pit](https://twitter.com/rage_pit)
+- [@transmissions11](https://twitter.com/transmissions11)
+- [@mikeneuder](https://twitter.com/mikeneuder)
+- [@DeGatchi](https://twitter.com/DeGatchi)
+- [@0xmouseless](https://twitter.com/0xmouseless)
 
-### Thoughts While Practicing
+---
+
+## Communities
+
+- [ETH Research Forum](https://ethresear.ch/)
+
+---
+
+## Thoughts While Practicing
 - A tool to export all enums/structs from a Solidity file would be nice
 - MEV feel more like a game than a profession. During my short journey, I think I've noticed what I really enjoy– it's the puzzle and the reward.
     - [[code/topics/blocksec/garden|Whitehat]] security research looks quite appealing. There's a lot of funds to protect and the space is still young. I think I'll start looking into this more.
