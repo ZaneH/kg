@@ -47,6 +47,8 @@ Much like security research, MEV "Searchers" have to think of ways to break and 
 - [Rust MEV template](https://github.com/DeGatchi/mev-template-rs)
 - [ethers-rs boilerplate](https://github.com/evmcheb/ethers-rs-boilerplate)
 
+---
+
 ## Diving Deeper
 
 - [Using assembly to reduce your gas costs (by @SolidQuant)](https://medium.com/@solidquant/up-your-mev-game-by-using-assembly-93c31b06cf96)
