@@ -17,7 +17,7 @@ title: Whitehat Blackchain Security
 
 - [[code/topics/blocksec/transfer-vs-send-call|Transfer vs. Send vs. Call]]
 - Understanding Calldata
-    - [[https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-3ea|EVM byte storage in Solidity]]
+    - [EVM byte storage in Solidity](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-3ea)
 
 ## Deeper Readings
 
