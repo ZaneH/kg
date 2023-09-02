@@ -48,3 +48,4 @@ title: Whitehat Blackchain Security
 - Day 4: I'm getting familiar with all of the tools. With my current knowledge, I'll only be able to spot very specific bugs. I need to broaden my knowledge and read more code. I'm also realizing math will be an important skill in this field.
     - Finding interesting contracts to analyze takes time. Some kind of parser would be nice.
         - Reading through "internal transactions" is a good start.
+        - GitHub has also been an ok source.
