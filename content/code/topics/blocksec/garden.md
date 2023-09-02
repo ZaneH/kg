@@ -4,7 +4,7 @@ title: Whitehat Blackchain Security
 
 ## Foundry 0 to 100
 
-- Start simple. You may need to restart your project once or twice.
+- Start simple `forge init my-project`. You may need to restart your project once or twice.
 - Learn to create interfaces for external contracts and use them.
 - Good to know:
     - `hex"..."` is a `bytes` literal. It's the easiest way to create bytes from hex.
@@ -30,7 +30,7 @@ title: Whitehat Blackchain Security
 
 - [Discover the 0xbadcode](https://medium.com/immunefi/0xbadc0de-mev-bot-hack-analysis-30b9031ff0ba)
 - [Ethernaut](https://ethernaut.openzeppelin.com/)
-    - See what I learned from Ethernaut [here (no spoilers)](/code/topics/blocksec/ethernaut-findings.md)
+    - See what I learned from Ethernaut [[code/topics/blocksec/ethernaut-findings|here (no spoilers)]]
 - [Damn Vulnerable DeFi Foundry](https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry)
 
 ## Common Questions
