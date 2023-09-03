@@ -43,8 +43,13 @@ title: Whitehat Blackchain Security
 
 - [Bit Manipulation](https://hackmd.io/@fiveoutofnine/Skl9eRbX9)
 
+## Past Vulnerabilities
+
+- [Read-only reentry](https://quillaudits.medium.com/decoding-220k-read-only-reentrancy-exploit-quillaudits-30871d728ad5#:~:text=The%20read%2Donly%20reentrancy%20is,wrong%20values%20could%20be%20reported.)
+
 ## Thoughts While Practicing
 
+- [[code/topics/blocksec/solidity-quirks|Solidity Quirks]]
 - Day 4: I'm getting familiar with all of the tools. With my current knowledge, I'll only be able to spot very specific bugs. I need to broaden my knowledge and read more code. I'm also realizing math will be an important skill in this field.
     - Finding interesting contracts to analyze takes time. Some kind of parser would be nice.
         - Reading through "internal transactions" is a good start.
