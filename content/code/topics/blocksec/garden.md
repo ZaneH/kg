@@ -21,6 +21,7 @@ title: Whitehat Blackchain Security
     - Import this script into a foundry project and run it with `forge script scripts/MyScript.s.sol --fork-url ... -vvvvv`
     - This provides similar functionality to smart contracts, but acts more like EOA or an "ETH REPL."
     - Use `!help` to see available commands.
+- A full [cheatsheet can be found here](https://milotruck.github.io/blog/Foundry-Cheatsheet/).
 
 ## News
 
