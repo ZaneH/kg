@@ -57,3 +57,4 @@ title: Whitehat Blackchain Security
     - Finding interesting contracts to analyze takes time. Some kind of parser would be nice.
         - Reading through "internal transactions" is a good start.
         - GitHub has also been an ok source.
+- [[code/topics/blocksec/fuzzing|Fuzzing]] has been helpful and fun.
