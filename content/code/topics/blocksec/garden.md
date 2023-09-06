@@ -58,3 +58,4 @@ title: Whitehat Blackchain Security
         - Reading through "internal transactions" is a good start.
         - GitHub has also been an ok source.
 - [[code/topics/blocksec/fuzzing|Fuzzing]] has been helpful and fun.
+- [[code/topics/blocksec/ethersjs|Ethers.js]] is not my first choice, but it's popular. Damn Vulnerable DeFi taught me a lot about Ethers.js.
