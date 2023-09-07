@@ -26,3 +26,14 @@ let provider = ethers.getDefaultProvider();
 // provider is optional, but often needed
 let walletWithProvider = new ethers.Wallet(privateKey, provider);
 ```
+
+## Get Event Values
+
+```js
+// buyOne(...) is a func that emits TokenBought(...) event
+const tx = await myContract.buyOne(myArgs);
+const rc = await tx.wait();
+const event = rc.events.find(event => event.event === 'TokenBought');
+const [from, id, price] = event.args;
+console.log(from, id, price);
+```
