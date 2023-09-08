@@ -16,7 +16,7 @@ title: Whitehat Blackchain Security
 - Understanding Calldata
     - [EVM byte storage in Solidity](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-3ea)
 
-## Thoughts While Practicing
+## Timeline
 
 - [[code/topics/blocksec/solidity-quirks|Solidity Quirks]]
 - Day 4: I'm getting familiar with all of the tools. With my current knowledge, I'll only be able to spot very specific bugs. I need to broaden my knowledge and read more code. I'm also realizing math will be an important skill in this field.
@@ -26,3 +26,7 @@ title: Whitehat Blackchain Security
 - [[code/topics/blocksec/fuzzing|Fuzzing]] has been helpful and fun.
 - [[code/topics/blocksec/ethersjs|Ethers.js]] is not my first choice, but it's popular. Damn Vulnerable DeFi taught me a lot about Ethers.js.
 - Day 14: Seems like everyone working in the space is pretty anonymous... I may end up doing the same.
+    - By now, I've written a basic parser to find interesting contracts.
+    - I've gone through Ethernaut and Damn Vulnerable DeFi. Really helped me in learning Solidity and Yul. Lots of clever solution writeups to discover.
+    - EVM is no longer a mystery, it's just a really cool machine.
+    - Currently thinking about specializing and auditing with [code4rena](https://code4rena.com/). Still testing the waters.
