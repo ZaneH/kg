@@ -2,8 +2,6 @@
 title: Foundry 0 to 100
 ---
 
-## Foundry 0 to 100
-
 - Start simple `forge init my-project`. You may need to restart your project once or twice.
 - Learn to create interfaces for external contracts and use them.
 - Good to know:
