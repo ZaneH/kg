@@ -1,5 +1,5 @@
 ---
-title: Whitehat Blackchain Security
+title: Whitehat Blockchain Security
 ---
 
 ## Sections
