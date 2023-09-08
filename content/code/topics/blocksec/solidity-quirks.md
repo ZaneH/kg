@@ -28,6 +28,8 @@ bytes32 hash = blockhash(block.number);
 
 ## Value Quirks
 
+### Using `msg.value` in loops
+
 Be careful of using `msg.value` in loops. If there aren't proper checks, a `buyMany()` may not work as expected.
 
 ```solidity title="BuggyBuy.sol"
