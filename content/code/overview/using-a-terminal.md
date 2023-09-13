@@ -68,7 +68,7 @@ The advantage of using a text editor is that you can edit files without leaving 
 
 ### Running Programs
 
-To run a program, first it needs to be "executable." To make a program executable. Assuming the program is executable, you can run it by typing the name of the program. For example, to run a program called "hello", run `./hello`.
+To run a program, first it needs to be "executable." To make a program executable, you'll use `chmod +x ...`. Assuming the program is executable, you can run it by typing the name of the program. For example, to run a program called "hello", run `./hello`.
 
 ## Beginner Friendly Tools
 
