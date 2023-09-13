@@ -12,6 +12,8 @@ There are various shells, but the most common one is called "bash." Windows uses
 
 The terminal is **powerful**. It can automate tasks, run programs, and do things that would be difficult to do otherwise. It's also **fast**. It's often faster to type a command than to click through a GUI. It's also **portable**. You can use the same commands on any computer.
 
+---
+
 ## The Basics
 
 ### Opening a Terminal
@@ -70,6 +72,8 @@ The advantage of using a text editor is that you can edit files without leaving 
 
 To run a program, first it needs to be "executable." To make a program executable, you'll use `chmod +x ...`. Assuming the program is executable, you can run it by typing the name of the program. For example, to run a program called "hello", run `./hello`.
 
+---
+
 ## Advanced Concepts
 
 ### Pipes
@@ -83,6 +87,8 @@ Environment variables are variables that are available to all programs. They're 
 ### $PATH
 
 The `$PATH` variable is a special environment variable that contains a list of directories. When you run a command, the terminal will look through each directory in `$PATH` to find the command. If you ever see an error like "command not found", it's likely because the command isn't in `$PATH`.
+
+---
 
 ## Beginner Friendly Tools
 
