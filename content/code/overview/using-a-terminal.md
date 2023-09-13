@@ -96,6 +96,7 @@ The `$PATH` variable is a special environment variable that contains a list of d
 - [ping](https://en.wikipedia.org/wiki/Ping_(networking_utility)) - A command-line tool for testing network connections.
 - [tree](http://mama.indstate.edu/users/ice/tree/) - A command-line tool for displaying directories as a tree.
 - [bat](https://github.com/sharkdp/bat) - A prettier version of `cat`.
+- [ps](https://linux.die.net/man/1/ps) - A command-line tool for listing processes.
 - [file](https://linux.die.net/man/1/file) - A command-line tool for determining the type of a file.
 - [htop](https://hisham.hm/htop/) - A command-line tool for monitoring system resources.
 - [brew](https://brew.sh/) - A package manager for Mac.
