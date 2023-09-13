@@ -119,7 +119,8 @@ The `$PATH` variable is a special environment variable that contains a list of d
 - [dig](https://linux.die.net/man/1/dig) - A command-line tool for querying DNS.
 - [cp](https://linux.die.net/man/1/cp) - A command-line tool for copying files.
 - [mv](https://linux.die.net/man/1/mv) - A command-line tool for moving files.
-- [rm](https://linux.die.net/man/1/rm) - A command-line tool for removing files.
+- [rm](https://linux.die.net/man/1/rm) - A command-line tool for removing files
+  - Be careful! There is no trash bin with `rm`.
 - [date](https://linux.die.net/man/1/date) - A command-line tool for printing the date.
 
 ---
