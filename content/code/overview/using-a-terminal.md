@@ -70,6 +70,20 @@ The advantage of using a text editor is that you can edit files without leaving 
 
 To run a program, first it needs to be "executable." To make a program executable, you'll use `chmod +x ...`. Assuming the program is executable, you can run it by typing the name of the program. For example, to run a program called "hello", run `./hello`.
 
+## Advanced Concepts
+
+### Pipes
+
+Pipes are a way to connect the output of one command to the input of another command. For example, to print the contents of a file and then count the number of lines, you can run `cat hello.txt | wc -l`.
+
+### Environment Variables
+
+Environment variables are variables that are available to all programs. They're often used to store configuration information. To set an environment variable, run `export VAR_NAME=var_value`. To see all environment variables, run `env`.
+
+### $PATH
+
+The `$PATH` variable is a special environment variable that contains a list of directories. When you run a command, the terminal will look through each directory in `$PATH` to find the command. If you ever see an error like "command not found", it's likely because the command isn't in `$PATH`.
+
 ## Beginner Friendly Tools
 
 - [git](https://git-scm.com/) - A version control system.
