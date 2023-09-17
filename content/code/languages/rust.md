@@ -8,12 +8,14 @@ The motivation for learning Rust was slow to develop. There isn't really a reaso
 
 ## Initial Thoughts
 
-- The compile times are a bit annoying.
+- **08/26** The compile times are a bit annoying.
 - The `Result<...>` pattern matching is very similar to Elixir.
     - `.unwrap()` is starting to make sense.
 - The error messages are very helpful once you can parse them.
 - Understanding the `Ok(())` syntax was useful.
-- `tokio` was intimidating at first, but it's not that bad.
-- I still don't fully understand `Mutex`, but my iOS background taught me about `Arc`.
+- `tokio` was intimidating at first, but it's not so bad.
+- I learned how to use `Mutex`. `Arc` is something I learned from [iOS](code/overview/mobile-programming).
 - Starting to understand the build system + cargo. It's nice.
 - [The Dev Method](https://www.youtube.com/watch?v=pGh-0cMvH5g&list=PLAJ-sYO1aGdxQ_skPPtJ7PlSAjTXM-atv) has a good playlist on Rust. It's definitely helping my understanding.
+- **09/17** - I'm learning to use [Diesel](https://github.com/diesel-rs/diesel) next. Writing to a local SQLite database will be useful for some things I'm working on.
+    - Also trying to understand when to use traits & enums.
