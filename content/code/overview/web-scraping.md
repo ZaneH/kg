@@ -42,4 +42,4 @@ Plain text web scraping is becoming less useful, but it has its place. Websites 
 - **beautifulsoup4:** Python library for parsing HTML.
 - **requests:** Built-in python library that provides a clean interface for `curl` essentially.
 - **fetch:** Built-in for Node.js v18.17+. The equivalent of requests for JavaScript.
-- Your favorite language probably has one. They typically come in a few flavors.
+- Your favorite language probably has one. They typically come in a few flavors. Look for ones that support XPath or CSS selectors.
