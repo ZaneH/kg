@@ -105,7 +105,6 @@ The `$PATH` variable is a special environment variable that contains a list of d
 - [brew](https://brew.sh/) - A package manager for Mac.
 - [apt](https://wiki.debian.org/Apt) - A package manager for Linux.
 - [chocolatey](https://chocolatey.org/) - A package manager for Windows.
-- [zsh](https://ohmyz.sh/) - A more powerful shell.
 - [oh-my-zsh](https://ohmyz.sh/) - A framework for managing zsh.
 - [npm](https://www.npmjs.com/) - A package manager for JavaScript.
 - [man](https://linux.die.net/man/1/man) - A command-line tool for reading documentation on any command.
