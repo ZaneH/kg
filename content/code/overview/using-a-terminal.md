@@ -96,7 +96,8 @@ The `$PATH` variable is a special environment variable that contains a list of d
 >Some of these tools are built-in and some need to be installed. On Windows, you may need a Unix emulator like [Cygwin](https://www.cygwin.com/). Linux or macOS is a better experience in my opinion.
 
 - [git](https://git-scm.com/) - A version control system.
-- [ping](https://en.wikipedia.org/wiki/Ping_(networking_utility)) - A command-line tool for testing network connections.
+- [tldr](https://tldr.sh/) - A simplified version of `man`.
+- [ping](https://linux.die.net/man/8/ping) - A command-line tool for testing network connections.
 - [tree](http://mama.indstate.edu/users/ice/tree/) - A command-line tool for displaying directories as a tree.
 - [bat](https://github.com/sharkdp/bat) - A prettier version of `cat`.
 - [ps](https://linux.die.net/man/1/ps) - A command-line tool for listing processes.
