@@ -92,6 +92,9 @@ The `$PATH` variable is a special environment variable that contains a list of d
 
 ## Beginner Friendly Tools
 
+>[!note]
+>Some of these tools are built-in and some need to be installed. On Windows, you may need a Unix emulator like [Cygwin](https://www.cygwin.com/). Linux or macOS is a better experience in my opinion.
+
 - [git](https://git-scm.com/) - A version control system.
 - [ping](https://en.wikipedia.org/wiki/Ping_(networking_utility)) - A command-line tool for testing network connections.
 - [tree](http://mama.indstate.edu/users/ice/tree/) - A command-line tool for displaying directories as a tree.
@@ -105,12 +108,6 @@ The `$PATH` variable is a special environment variable that contains a list of d
 - [zsh](https://ohmyz.sh/) - A more powerful shell.
 - [oh-my-zsh](https://ohmyz.sh/) - A framework for managing zsh.
 - [npm](https://www.npmjs.com/) - A package manager for JavaScript.
-
----
-
->[!note]
->These are built-in commands that come with bash. On Windows, these commands may require a Unix emulator like [Cygwin](https://www.cygwin.com/).
-
 - [man](https://linux.die.net/man/1/man) - A command-line tool for reading documentation on any command.
 - [mkdir](https://linux.die.net/man/1/mkdir) - A command-line tool for creating directories.
 - [touch](https://linux.die.net/man/1/touch) - A command-line tool for creating files.
