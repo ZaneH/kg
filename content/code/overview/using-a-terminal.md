@@ -134,3 +134,4 @@ These tools take more time to learn, but they can be very useful.
 - [awk](https://www.gnu.org/software/gawk/) - A command-line tool for processing text.
 - [curl](https://curl.haxx.se/) - A command-line tool for transferring data.
 - [docker](https://www.docker.com/) - A tool for running containers.
+- [Fx](https://github.com/antonmedv/fx) - A command-line JSON viewer.
