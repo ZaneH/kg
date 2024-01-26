@@ -74,3 +74,36 @@ If you want to add some personality to your chatbot, this is the best way to do 
 ### LLM as a Translator
 
 You can train an LLM to translate between two programming languages or two formats. Simple prompts can be inaccurate, but with enough examples you can get a pretty good translator. This could save you hours of work.
+
+## Experimental Use Cases
+
+### Graph-Representation
+
+LLMs are surprisingly good at generating/reading graphs. You can store a graph with nodes & edges in JSON and have the LLM modify it on the fly. This could be useful for a home assistant, a game, and other things that might branch out.
+
+Using a graph removes a lot of the limitations of a simple input/output queue.
+
+```json title="graph.json"
+{
+  "nodes": {
+    "1": {
+      "action": "input.text",
+      "data": "Post a tweet about the weather in San Francisco"
+    },
+    "2": {
+      "action": "data.wolfram_alpha",
+    },
+    "3": {
+      "action": "confirm.edit",
+    },
+    "4": {
+      "action": "output.tweet",
+    }
+  },
+  "edges": [
+    { "from": "1", "to": "2" },
+    { "from": "2", "to": "3" },
+    { "from": "3", "to": "4" }
+  ]
+}
+```
