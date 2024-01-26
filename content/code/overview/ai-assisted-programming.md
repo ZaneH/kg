@@ -3,6 +3,10 @@ title: AI Assisted Programming
 tags: ai, code
 ---
 
+## Related Pages
+
+- [Fine-Tuning](/code/topics/ai/fine-tuning)
+
 ## The Rundown
 
 This note will certainly be outdated the quickest. ChatGPT is less than a year old and the field is still moving quickly. This new bread of AI is the first time I (and many others) have integrated AI into the developer's workflow. Over the last year I paid for GitHub's Copilot service which in the beginning was immensely helpful. The general consensus seems to be that it has gotten worse over the last few months. I think this is part of the process, and we'll see a lot of improvement over the next few years.
