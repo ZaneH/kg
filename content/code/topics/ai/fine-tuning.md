@@ -7,6 +7,10 @@ Finding info on fine-tuning is a bit of a mess. Each model has their own flavor 
 
 I have been on the lookout for alternatives to OpenAI, but I have yet to find a cheaper and easier alternative. I'll try to update this page if I find one.
 
+## Locally
+
+If you're like me, you want to do it locally. Unfortunately, this is quite an expensive task and it's not super simple yet. I'll try to update this page as I find better ways to do it. For now, OpenAI is my go-to.
+
 ## OpenAI
 
 OpenAI has been *the easiest* in my experience for fine-tuning. You can start with just 10 samples in your `.jsonl` and you can get noticeable results.
