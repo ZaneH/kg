@@ -68,3 +68,13 @@ bot.run(os.getenv('DISCORD_TOKEN'))
 - Modals can only contain text input fields (no user select menus, etc.)
 - You need to define your intents when you create your bot. This is a new feature.
     - Typically `intents` are defined as `intents = discord.Intents.default()`
+
+## Secret Message Formats
+
+Send these into a Discord chat to see the magic happen.
+
+- [Clickable slash commands](https://stackoverflow.com/a/73744289/3411191) - Displays an inline slash command users can click.
+- Countdowns and dates
+    - `<t:1708061519:R>` for example, will display the date in relative time.
+    - Use web apps like [shyked.fr](https://discord-date.shyked.fr/) to generate these more easily.
+- Mention a user by their ID: `<@1234567890>`
