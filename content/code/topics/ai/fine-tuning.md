@@ -55,6 +55,10 @@ In other words:
 }
 ```
 
+## Fine Tuning with Together.ai
+
+On my main site, I have a page dedicated to [fine-tuning with Together.ai](https://together.ai/fine-tuning). It's a bit more complicated than OpenAI, but it has the added benefit of being able to fine-tune open-source models. This also means you can download the `.safetensors` and use them locally.
+
 ## Fine-Tuning Use Cases
 
 ### LLM as API
