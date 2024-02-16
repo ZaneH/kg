@@ -78,3 +78,4 @@ Send these into a Discord chat to see the magic happen.
     - `<t:1708061519:R>` for example, will display the date in relative time.
     - Use web apps like [shyked.fr](https://discord-date.shyked.fr/) to generate these more easily.
 - Mention a user by their ID: `<@1234567890>`
+- Get ID for server emotes: `\:custom_emote:`
