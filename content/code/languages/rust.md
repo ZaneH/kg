@@ -1,5 +1,6 @@
 ---
 title: Learning Rust
+date: 08-26-2023
 ---
 
 ## Motivation
@@ -8,7 +9,7 @@ The motivation for learning Rust was slow to develop. There isn't really a reaso
 
 ## Initial Thoughts
 
-- **08/26** The compile times are a bit annoying.
+- **08/26/23** The compile times are a bit annoying.
 - The `Result<...>` pattern matching is very similar to Elixir.
     - `.unwrap()` is starting to make sense.
 - The error messages are very helpful once you can parse them.
@@ -17,5 +18,10 @@ The motivation for learning Rust was slow to develop. There isn't really a reaso
 - I learned how to use `Mutex`. `Arc` is something I learned from [iOS](code/overview/mobile-programming).
 - Starting to understand the build system + cargo. It's nice.
 - [The Dev Method](https://www.youtube.com/watch?v=pGh-0cMvH5g&list=PLAJ-sYO1aGdxQ_skPPtJ7PlSAjTXM-atv) has a good playlist on Rust. It's definitely helping my understanding.
-- **09/17** - I'm learning to use [Diesel](https://github.com/diesel-rs/diesel) next. Writing to a local SQLite database will be useful for some things I'm working on.
+- **09/17/23** - I'm learning to use [Diesel](https://github.com/diesel-rs/diesel) next. Writing to a local SQLite database will be useful for some things I'm working on.
     - Also trying to understand when to use traits & enums.
+    - Gave up on this project, writing SQL migrations with Rust is not fun!
+
+## Solana
+
+**02/26/2024** – Coming back to Rust for [[code/topics/blockchain/solana|Solana smart contract development]]. We'll see...
