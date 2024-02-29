@@ -1,6 +1,6 @@
 ---
 title: friend.tech Sniper
-tags: alpha, back-running, mempool, mev, bots
+tags: mev, bots, crypto
 date: 08-26-2023
 ---
 

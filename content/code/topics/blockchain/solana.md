@@ -1,6 +1,7 @@
 ---
 title: Solana
 date: 02-29-2024
+tags: blockchain, crypto, solana
 ---
 
 ## Quickstart

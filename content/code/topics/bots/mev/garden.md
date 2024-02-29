@@ -1,6 +1,7 @@
 ---
 title: MEV Garden
 date: 08-26-2023
+tags: mev, crypto, blockchain
 ---
 
 ## Introduction
