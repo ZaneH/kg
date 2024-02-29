@@ -1,5 +1,6 @@
 ---
 title: Fuzzing Smart Contracts
+date: 09-09-2023
 ---
 
 ## Fuzzing

@@ -1,6 +1,7 @@
 ---
 title: Discord Bots
 tags: discord, bots, python, javascript
+date: 02-15-2024
 ---
 
 ## Welcome!

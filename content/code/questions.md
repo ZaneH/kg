@@ -1,5 +1,6 @@
 ---
 title: Common Programmer Questions
+date: 08-26-2023
 ---
 
 - [[code/common-questions/what-programming-language-should-i-learn-first|What programming language should I learn?]]

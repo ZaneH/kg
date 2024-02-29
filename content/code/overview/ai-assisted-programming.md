@@ -1,6 +1,7 @@
 ---
 title: AI Assisted Programming
 tags: ai, code
+date: 09-07-2023
 ---
 
 ## Related Pages

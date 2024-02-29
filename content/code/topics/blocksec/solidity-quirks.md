@@ -1,5 +1,6 @@
 ---
 title: Solidity Quirks
+date: 09-06-2023
 ---
 
 ## Syntax Quirks

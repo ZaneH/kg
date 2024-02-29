@@ -1,7 +1,7 @@
 ---
 title: friend.tech Sniper
 tags: alpha, back-running, mempool, mev, bots
-color: ff0000
+date: 08-26-2023
 ---
 
 ## Introduction

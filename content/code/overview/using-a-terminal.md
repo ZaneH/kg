@@ -1,5 +1,6 @@
 ---
 title: Using a Terminal
+date: 08-26-2023
 ---
 
 ## The Rundown

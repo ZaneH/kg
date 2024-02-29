@@ -1,6 +1,7 @@
 ---
 title: Frontend Web Development
 tags: web, frontend, code
+date: 08-26-2023
 ---
 
 ## The Rundown

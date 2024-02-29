@@ -1,6 +1,7 @@
 ---
 title: Database Design
 tags: database, orm, relational
+date: 08-26-2023
 ---
 
 Database design is the process of producing a detailed data model of a database. This data model contains all the necessary data structures and constraints required to store, manage and access the data in the database. This data is typically accessed from the [[code/overview/backend-web-development|backend]] of an application.

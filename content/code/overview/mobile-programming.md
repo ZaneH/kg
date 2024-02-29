@@ -1,6 +1,7 @@
 ---
 title: Mobile Programming
 tags: mobile, code
+date: 08-26-2023
 ---
 ## The Rundown
 

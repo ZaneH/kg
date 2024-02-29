@@ -1,5 +1,6 @@
 ---
 title: Whitehat Blockchain Security
+date: 09-06-2023
 ---
 
 ## Sections

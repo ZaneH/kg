@@ -1,6 +1,7 @@
 ---
 title: Web Scraping
 tags: web, code
+date: 08-26-2023
 ---
 
 Part of me does not like the idea of web scraping, but it is a valuable skill if the goal is to ingest web content that doesn't offer an API. If an API is available, it's almost always better to go with the API. Web scraping could fail for a bunch of reasons and requires careful consideration if used in production. The content being scraped is likely not under your control and could change at a moment's notice.

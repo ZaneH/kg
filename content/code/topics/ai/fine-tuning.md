@@ -1,6 +1,7 @@
 ---
 title: Fine-Tuning LLMs
 tags: ai, code
+date: 09-26-2023
 ---
 
 Finding info on fine-tuning is a bit of a mess. Each model has their own flavor for input. Often you'll just have to Google around to find the right format or a Python script that does it for you.

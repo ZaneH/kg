@@ -1,5 +1,6 @@
 ---
 title: Transfer vs. Send vs. Call
+date: 09-06-2023
 ---
 
 ### How to send Ether?

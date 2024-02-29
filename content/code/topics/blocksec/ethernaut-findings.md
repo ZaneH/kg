@@ -1,5 +1,6 @@
 ---
 title: Ethernaut Findings
+date: 09-06-2023
 ---
 
 This is a collection of my findings from the [Ethernaut](https://ethernaut.openzeppelin.com/) CTF. Here are some of the most important things I learned.

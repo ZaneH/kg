@@ -1,5 +1,6 @@
 ---
 title: Deeper Readings
+date: 09-10-2023
 ---
 
 - [Bit Manipulation](https://hackmd.io/@fiveoutofnine/Skl9eRbX9)

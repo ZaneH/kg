@@ -1,5 +1,6 @@
 ---
 title: Trial by Fire
+date: 09-06-2023
 ---
 
 - [Discover the 0xbadcode](https://medium.com/immunefi/0xbadc0de-mev-bot-hack-analysis-30b9031ff0ba)

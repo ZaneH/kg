@@ -1,5 +1,6 @@
 ---
 title: Foundry 0 to 100
+date: 09-10-2023
 ---
 
 - Start simple `forge init my-project`. You may need to restart your project once or twice.

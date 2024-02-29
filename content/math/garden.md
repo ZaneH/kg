@@ -1,5 +1,6 @@
 ---
 title: Math Garden
+date: 09-26-2023
 ---
 
 ## Math Garden
