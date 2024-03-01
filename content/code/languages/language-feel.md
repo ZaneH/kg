@@ -1,5 +1,6 @@
 ---
 title: Language Feel
+tags: code
 ---
 
 ## What is Language Feel?
@@ -20,3 +21,5 @@ TODO: Flesh this out more
 - Less footguns (give example of GitHubs `${{ }}` syntax)
     - Maybe include a Solidity example?
 - Bring the features people like in a prev ecosystem to a new one
+- `type`in Python, `typeof` in C, `type` in JavaScript
+    - "type" as a variable name in Python is a footgun

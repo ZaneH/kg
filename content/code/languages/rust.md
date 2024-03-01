@@ -1,6 +1,7 @@
 ---
 title: Learning Rust
 date: 08-26-2023
+tags: learning, rust
 ---
 
 ## Motivation

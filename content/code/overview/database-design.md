@@ -1,6 +1,6 @@
 ---
 title: Database Design
-tags: database, orm, relational
+tags: database
 date: 08-26-2023
 ---
 
