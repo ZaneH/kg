@@ -1,9 +1,9 @@
 ---
 title: Socket.IO Session Lifecycle
-tags: socketio, network
+tags: socketio, networking
 ---
 
-A full sample session can be found in the [[code/topics/socketio/sample-session|Socket.IO Sample Session]] page.
+A full sample session can be found in the [[code/topics/networking/socketio/sample-session|Socket.IO Sample Session]] page.
 
 ## Initial Connection
 

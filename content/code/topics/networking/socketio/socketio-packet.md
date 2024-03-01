@@ -1,11 +1,11 @@
 ---
 title: Socket.IO Packet
-tags: socketio, network, packet
+tags: socketio, networking, packet
 ---
 
 # Socket.IO Packet
 
-Packets are [[code/topics/socketio/packet-encoding|encoded]] in the Socket.IO protocol. Read a breakdown of the [[code/topics/socketio/sample-session|sample session]] or read more about the [[code/topics/socketio/session-lifecycle|session lifecycle]].
+Packets are [[code/topics/networking/socketio/packet-encoding|encoded]] in the Socket.IO protocol. Read a breakdown of the [[code/topics/networking/socketio/sample-session|sample session]] or read more about the [[code/topics/networking/socketio/session-lifecycle|session lifecycle]].
 
 ## Packet Contents
 

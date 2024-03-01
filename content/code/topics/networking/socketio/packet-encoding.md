@@ -1,6 +1,6 @@
 ---
 title: Socket.IO Packet Encoding
-tags: socketio, network, packet, encoding
+tags: socketio, networking, packet, encoding
 ---
 
 ## Format

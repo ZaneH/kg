@@ -1,9 +1,9 @@
 ---
 title: Socket.IO Sample Session
-tags: socketio, network
+tags: socketio, networking
 ---
 
-A further breakdown of the topics covered here can be found in the [[code/topics/socketio/session-lifecycle|Socket.IO Session Lifecycle]] and [[code/topics/socketio/packet-encoding|Socket.IO Packet Encoding]] pages.
+A further breakdown of the topics covered here can be found in the [[code/topics/networking/socketio/session-lifecycle|Socket.IO Session Lifecycle]] and [[code/topics/networking/socketio/packet-encoding|Socket.IO Packet Encoding]] pages.
 
 ## Sample session
 
