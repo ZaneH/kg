@@ -10,6 +10,7 @@ date: 09-06-2023
 - [[code/topics/blocksec/sections/news|News]]
 - [[code/topics/blocksec/sections/trial-by-fire|Trial by Fire]]
 - [[code/topics/blocksec/sections/deeper-readings|Deeper Readings]]
+- [[code/topics/blocksec/sections/past-vulnerabilities|Past Vulnerabilities]]
 
 ## Common Questions
 
