@@ -14,6 +14,12 @@ tags: blockchain, crypto, solana
 - "Borsh" is the binary encoding format used by Solana.
     - Binary Object Representation Serializer for Hashing.
     - Think of it as a more efficient JSON.
+- Tokens on Solana come in two flavors: SPL and "Token-2022".
+    - SPL tokens are the standard token format.
+    - "Token-2022" is a more advanced token format and we don't see them much in the current environment.
+- SPL tokens use the [Token program](https://spl.solana.com/token).
+    - This is an on-chain program that manages token accounts. There are many of these pre-deployed programs on Solana (e.g. Token-2022 program, SPL associated token account program, address lookup table program)
+- Lots of guides/docs are incomplete or outdated. Expect to do a lot of digging and experimentation.
 
 ## Guides
 
