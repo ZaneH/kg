@@ -10,7 +10,9 @@ I have been on the lookout for alternatives to OpenAI, but I have yet to find a 
 
 ## Locally
 
-If you're like me, you want to do it locally. Unfortunately, this is quite an expensive task and it's not super simple yet. I'll try to update this page as I find better ways to do it. For now, OpenAI is my go-to.
+If you're like me, you want to do it locally. This is a bit more complicated, but it's worth it if you like to tinker.
+
+- [[/code/topics/ai/local/fine-tuning|Fine-Tuning Locally]]
 
 ## OpenAI
 
