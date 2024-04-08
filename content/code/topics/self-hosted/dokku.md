@@ -1,5 +1,6 @@
 ---
 title: Dokku (Self-Hosted Heroku)
+date: 04-07-2024
 ---
 
 Every wanted to host your own version of Heroku? Dokku is a self-hosted Platform as a Service (PaaS) that allows you to deploy, manage, and scale your applications. It's a great alternative to Heroku and provides a lot of flexibility in terms of deployment options. I got it running on a VPS and have been using it to deploy various applications. A couple months ago, I would've been paying \$5 per app per month, but now I can host as many apps as I want for \$5/mo. Here's how to get started with Dokku:
@@ -71,7 +72,7 @@ mongodb://<user>:<password>@localhost:27017/<database>
 
 ## Make Sure Only One Process is Running
 
-While working with some of my apps, I noticed that some will break if more than one instance is running. This happens when deploying a new version of the app while the old one is still running (aka Zero Downtime Deployment). To disable this, I ran:
+While working with some of my apps, I noticed that some will break if more than one instance is running. This happens when deploying a new version of the app while the old one is still running (aka [Zero Downtime Deployment](https://dokku.com/docs/deployment/zero-downtime-deploys/)). To disable this, I ran:
 
 ```bash
 dokku checks:disable [app-name] web
