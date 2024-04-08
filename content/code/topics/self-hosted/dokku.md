@@ -68,3 +68,13 @@ mongodb://<user>:<password>@localhost:27017/<database>
     - Hostname: Remote VPS IP
     - Port: 22
     - Username: dokku (or the user running Dokku)
+
+## Make Sure Only One Process is Running
+
+While working with some of my apps, I noticed that some will break if more than one instance is running. This happens when deploying a new version of the app while the old one is still running (aka Zero Downtime Deployment). To disable this, I ran:
+
+```bash
+dokku checks:disable [app-name] web
+```
+
+This way, it stops the old instance before starting the new one.
