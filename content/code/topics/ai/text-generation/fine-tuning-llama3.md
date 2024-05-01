@@ -4,7 +4,7 @@ date: 04-30-2024
 tags: ai, fine-tuning
 ---
 
-When Llama3 there was initially some confusion around fine-tuning it. People were saying that the earliest fine-tunes were objectively worse than the base model. From my current understanding, this is because Llama3 introduced some "special tokens" in the way it was trained and many of the existing tools didn't support this new format.
+When Llama3 first released there was some confusion around fine-tuning it. People were saying that the earliest fine-tunes were objectively worse than the base model. From my current understanding, this is because Llama3 introduced some "special tokens" in the way it was trained and many of the existing tools didn't support this new format.
 
 Today I stumbled on [Unsloth's repo](https://github.com/unslothai/unsloth). First impressions are very good, they have a complete notebook for preparing your dataset, and fine-tuning.
 
