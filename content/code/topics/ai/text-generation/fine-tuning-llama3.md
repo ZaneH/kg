@@ -10,7 +10,7 @@ Today I stumbled on [Unsloth's repo](https://github.com/unslothai/unsloth). Firs
 
 ## Running Locally
 
-The notebooks Unsloth provides are hosted on Colab. At first I thought I might port them to Jupyter to run locally, but then I learned you can run the Colab runtime locally! Using [this guide](https://research.google.com/colaboratory/local-runtimes.html) I was able to connect my GPU and RAM to my Colab notebook. This is a game changer for me, I can now run the fine-tuning process on my desktop withuot much change.
+The notebooks Unsloth provides are hosted on Colab. At first I thought I might port them to Jupyter to run locally, but then I learned you can run the Colab runtime locally! Using [this guide](https://research.google.com/colaboratory/local-runtimes.html) I was able to connect my GPU and RAM to my Colab notebook. This is a game changer for me, I can now run the fine-tuning process on my desktop with little effort.
 
 ## Preparing Dataset
 
