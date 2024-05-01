@@ -16,7 +16,7 @@ The notebooks Unsloth provides are hosted on Colab. At first I thought I might p
 
 Each time I prepare a dataset, I create a folder with some Python scripts that do very simple file operations. I know there are tools to do this more efficiently, but I haven't quite understood them yet.
 
-In the case of fine-tuning Llama3, I have the following scripts:
+In the case of fine-tuning Llama3 with Unsloth, I have only one script for preparing my data:
 
 ```bash
 └── convert-to-jsonl.py
@@ -28,6 +28,9 @@ All this script does is read a CSV file, and creates JSON objects (1 per line) l
 {"conversations": [{"from": "system", "value": "Write a tweet in all capital letters."}, {"from": "human", "value": "The topic is: Rap music"}, {"from": "gpt", "value": "I LOVE RAP MUSIIIIIIIIC"}]}
 {"conversations": [{"from": "system", "value": "Write a tweet in all capital letters."}, {"from": "human", "value": "The topic is: Pokemon"}, {"from": "gpt", "value": "SNORLAX. THAT'S THE TWEET."}]}
 ```
+
+>[!info]
+>If you need the code for this, ask GPT-4. It will give you a better version than I can provide.
 
 Once I had ~400 lines of data like this, I knew it was enough to train the model. I imported it into the Colab space and changed the dataset code accordingly:
 

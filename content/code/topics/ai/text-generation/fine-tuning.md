@@ -2,6 +2,7 @@
 title: Fine Tuning with Axolotl
 date: 03-31-2024
 tags: ai, fine-tuning
+lastmod: 05-01-2024
 ---
 
 After a few months of dealing with cloud GPUs, I decided to get a used 12GB VRAM GPU for my desktop. Hopefully I'll be able to train at least 1 useful model on it.
