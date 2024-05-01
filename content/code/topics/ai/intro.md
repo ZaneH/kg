@@ -1,12 +1,14 @@
 ---
-title: Fine-Tuning LLMs
+title: Intro to AI
 tags: ai, code
 date: 09-26-2023
 ---
 
-Finding info on fine-tuning is a bit of a mess. Each model has their own flavor for input. Often you'll just have to Google around to find the right format or a Python script that does it for you.
+The motivation for running AI is to automate tasks that I'd be doing normally at scale. Creating "agents" requires a bit of fine-tuning for my specific use-cases. I am learning as I go. This page currently serves as a brain dump while I was first thinking about this stuff.
 
-I have been on the lookout for alternatives to OpenAI, but I have yet to find a cheaper and easier alternative. I'll try to update this page if I find one.
+---
+
+Finding info on fine-tuning is a bit of a mess. Each model has their own flavor for input. Often you'll just have to Google around to find the right format or a Python script that does it for you.
 
 ## Local Text Generation
 

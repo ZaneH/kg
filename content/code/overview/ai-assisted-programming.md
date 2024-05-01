@@ -6,7 +6,7 @@ date: 09-07-2023
 
 ## Related Pages
 
-- [Fine-Tuning](/code/topics/ai/fine-tuning)
+- [[/code/topics/ai/intro|Intro to AI]]
 
 ## The Rundown
 
