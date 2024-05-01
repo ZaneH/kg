@@ -37,14 +37,33 @@ from datasets import load_dataset
 dataset = dataset.map(formatting_prompts_func, batched = True,)
 ```
 
+## Run the Fine-Tune
+
+At some point in the Unsloth Colab notebook it starts the fine-tuning process. I was able to run a full fine-tune job locally on a 3060 (12GB VRAM) thanks to Unsloth's notebook. This is even better than using Cloud GPUs like I normally would. Once the fine-tune finished, there's a final step in the notebook if you want to manually export the model as `q5_k_m`:
+
+```diff
+-if False: model.save_pretrained_gguf("model", tokenizer, quantization_method = "q5_k_m")
++if True: model.save_pretrained_gguf("model", tokenizer, quantization_method = "q5_k_m")
+```
+
+Once this block runs, there's a new `model-unsloth.gguf` file in the explorer.
+
+## Inferencing
+
+Turns out, fine-tuning was half the battle. Figuring out how to run a fine-tuned Llama3 model was another task. vLLM and llama.cpp have the earliest support, so I opted for llama.cpp on my development machine. Using `./main` I was only able to get it working in interactive mode, but the `./server` is working like I was hoping.
+
+```bash
+./server --chat-template llama3 -m ~/Downloads/model-unsloth.Q5_K_M.gguf --port 8081
+```
+
+Visiting http://localhost:8081 brings you to a very retro looking page where you can put the system prompt and the user prompt into the text box and get a response. For my use case, I reset the context entirely on each request. This can now easily be integrated into an app using the API!
+
 ## Chat Templating
 
-By far the worst part of this process in my experience has been chat templating. Luckily, I found this[^1] so you'll never have to worry about it. I think my rule of thumb is to wait for someone else to figure out how to make it work and then use their notebook with some modifications because it's quite time-consuming to get these chat templates working from scratch.
+By far the worst part of this process in my experience has been chat templating. I found this[^1] which is provided by llama.cpp. It has some examples for popular chat templates. I think my rule of thumb is to wait for someone else to figure out how to make it work with fine-tuning and inferencing and then use their notebook with some modifications because it's quite time-consuming to get these chat templates working from scratch. That time could instead be spent creating high-quality datasets.
 
 The chat template controls how your system prompt is added, how the user prompt is added and how stop tokens are managed. All of these are important to the text generation process.
 
 If the chat template is wrong, you'll likely see artifacts from the training data in the output text. You might see 'system' at the end of every line for example.
-
-## Preparing Data
 
 [^1]: [Chat Template library](https://github.com/ggerganov/llama.cpp/wiki/Templates-supported-by-llama_chat_apply_template)
