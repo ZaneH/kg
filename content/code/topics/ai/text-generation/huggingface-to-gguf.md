@@ -12,7 +12,7 @@ Recently stumbled on an interesting Hugging Face model and saw that the files co
 3. Run the following command to convert the model to GGUF format:
 
 ```bash
-python convert.py . --outfile gguf_model.bin
+python convert.py . --outfile new_model.gguf
 ```
 
 > [!info]

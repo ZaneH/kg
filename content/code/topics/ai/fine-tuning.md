@@ -13,6 +13,7 @@ I have been on the lookout for alternatives to OpenAI, but I have yet to find a 
 If you're like me, you want to do it locally. This is a bit more complicated, but it's worth it if you like to tinker.
 
 - [[/code/topics/ai/text-generation/fine-tuning|Fine-Tuning Locally]]
+- [[/code/topics/ai/text-generation/fine-tuning-llama3|Fine-Tuning Llama3]] (Done)
 
 ## OpenAI
 
