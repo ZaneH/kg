@@ -6,7 +6,7 @@ Here you'll find my knowledge gardens. It's a bit of an experiment after reading
 
 - [[code/garden|Code Garden]]
     - [[/code/topics/ai/intro|Intro to AI]]
-- [[math/garden|Math Garden]]
+<!-- - [[math/garden|Math Garden]] -->
 
 ### RSS
 
