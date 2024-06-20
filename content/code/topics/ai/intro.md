@@ -10,9 +10,10 @@ The motivation for running AI is to automate tasks that I'd be doing normally at
 
 - Text Generation:
   - Qwen2 and Llama3
+- Code Generation:
+  - DeepSeek Coder v2
 - Image Generation:
   - Stable Diffusion (1.5 and XL)
-
 ---
 
 Finding info on fine-tuning is a bit of a mess. Each model has their own flavor for input. Often you'll just have to Google around to find the right format or a Python script that does it for you.
