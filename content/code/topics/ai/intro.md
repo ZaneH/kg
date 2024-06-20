@@ -4,7 +4,14 @@ tags: ai, code
 date: 09-26-2023
 ---
 
-The motivation for running AI is to automate tasks that I'd be doing normally at scale. Creating "agents" requires a bit of fine-tuning for my specific use-cases. I am learning as I go. This page currently serves as a brain dump while I was first thinking about this stuff.
+The motivation for running AI is to automate tasks that I'd be doing normally at scale. Creating "agents" requires a bit of fine-tuning for more specific use-cases.
+
+### Best Base Models
+
+- Text Generation:
+  - Qwen2 and Llama3
+- Image Generation:
+  - Stable Diffusion (1.5 and XL)
 
 ---
 
