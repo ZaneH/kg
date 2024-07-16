@@ -8,7 +8,7 @@ tags: cli, computer
 
 The terminal (or "CLI") is an essential part of coding. It's a way to interact with your computer using "shell" commands.
 
-There are various shells, but the most common one is called "bash." Windows uses a different shell called "cmd" or "powershell." Mac and Linux use bash. Knowing them all is useful, but bash is where I'd start.
+There are various shells, but the most popular one is called Bash. Windows has its own variation, PowerShell or Command Prompt.
 
 ### Why Use a Terminal?
 

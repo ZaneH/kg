@@ -2,7 +2,6 @@
 title: Code Garden
 date: 08-26-2023
 ---
-
 This is a lot of what I know about programming compressed down into a knowledge garden. I wish someone had given me this when I first started learning to code. Hopefully it can be a helpful guide or resource to someone from the future. Sprinkled in is my own personal preferences and recommendations.
 
 >[!important]
@@ -29,7 +28,6 @@ The next steps are to learn about variables, functions, and control flow. These 
 - [[code/overview/web-design|Web Design]] (design)
 - [[code/overview/ai-assisted-programming|AI Assisted Programming]] (code)
 - [[code/overview/game-programming|Game Programming]] (design and code)
-- [[code/questions|Common Programmer Questions]]
 
 ## Leveling Up
 
