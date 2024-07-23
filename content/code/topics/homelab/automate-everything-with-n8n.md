@@ -1,4 +1,5 @@
 ---
+title: Automate everything with n8n
 tags: [ai, automation]
 ---
 
@@ -9,7 +10,9 @@ Some of the features are paywalled, namely:
 - Variables
 - Storing credentials in a vault
 Third party nodes can be installed when needed.
+
 ## First Use Cases
+
 - Created a good morning bot that DM's Matrix and Discord with my daily agenda.
 - Read group chat history and summarize with an LLM.
 - A workflow that takes a Google Sheet, feeds one of the columns through an LLM to generate synthetic data in bulk.

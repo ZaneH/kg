@@ -1,4 +1,5 @@
 ---
+title: Apprise
 tags: [automation]
 ---
 Ever wanted to broadcast a single notification over Matrix, ntfy, PagerDuty, and AWS SES? That's what [Apprise](https://github.com/caronc/apprise/) is good for.

@@ -92,6 +92,13 @@ The `$PATH` variable is a special environment variable that contains a list of d
 
 ---
 
+## One Liners
+
+- `tail -f long-file.log`
+  - Follows the end (tail) of a file that is being written to (like a log)
+
+---
+
 ## Beginner Friendly Tools
 
 >[!note]
