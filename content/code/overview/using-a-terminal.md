@@ -66,9 +66,7 @@ Hello, World!
 
 ### Using a Text Editor
 
-`vim` is a widely used text editor for the terminal. It's a bit difficult to master, but learning the basics isn't that bad. `nano` is another text editor that's easier to use.
-
-The advantage of using a text editor is that you can edit files without leaving the terminal.
+`vim` is a widely used text editor for the terminal. It's a bit difficult to master, but learning the basics isn't that bad. Check out the [[learning-vim]] page. `nano` is a simpler text editor that's with many less features.
 
 ### Running Programs
 
