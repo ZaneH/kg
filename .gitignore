@@ -11,3 +11,4 @@ private/
 replit.nix
 smart-chats/
 .smart-env/
+.vscode/
