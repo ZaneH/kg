@@ -1,6 +1,6 @@
 ---
 title: Emacs Quickstart
-tags: code, text-editor, ide
+tags: code
 date: 10-26-24
 ---
 
