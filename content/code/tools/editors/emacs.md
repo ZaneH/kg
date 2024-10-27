@@ -25,9 +25,9 @@ under the hood.
 ## Terms
 
 - [Projects](https://www.gnu.org/software/emacs/manual/html_node/emacs/Projects.html) - Just a folder.
-- [Layers](https://www.spacemacs.org/doc/LAYERS.html) - A set of configurations that can be enabled/disabled to bring packages together
+- [Layers](https://www.spacemacs.org/doc/LAYERS.html) - A set of configurations that can be enabled/disabled to bring packages together.
 - [Modes](https://www.gnu.org/software/emacs/manual/html_node/emacs/Modes.html) - There are major and minor modes. Simply changes how text input affects the buffer.
-- [Packages](https://www.gnu.org/software/emacs/manual/html_node/emacs/Packages.html) - Extending the base functionality of emacs
+- [Packages](https://www.gnu.org/software/emacs/manual/html_node/emacs/Packages.html) - Extending the base functionality of emacs.
 
 ## Spacemacs Keybinds
 
