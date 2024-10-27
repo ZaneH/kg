@@ -50,6 +50,8 @@ under the hood.
 - <kbd>\<Space\> T s</kbd> - Switch themes
 - <kbd>\<Space\> q q</kbd> - Kill emacs
 - <kbd>\<Space\> q f</kbd> - Kill current frame (leave emacs running)
+- <kbd>\<Ctrl\>+c \<Ctrl\>+p a</kbd> - Add project to workspace
+- <kbd>\<Ctrl\>+c \<Ctrl\>+p d</kbd> - Drop project from workspace
 
 ## Performance
 
