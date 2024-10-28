@@ -34,30 +34,30 @@ under the hood.
 >[!note]
 >As you press keys, watch the menu that appears at the bottom of the screen to find more useful keybinds.
 
-| Keybind                            | Description                        |
+| Keybind                            |                        Description |
 |------------------------------------|-----------------------------------:|
-| <kbd>\<Space\> ?</kbd>             | Opens all keybindings              |
-| <kbd>\<Space\> \<Space\></kbd>     | Opens emacs command menu           |
-| <kbd>,</kbd>                       | Opens the major chord menu         |
-| <kbd>\<Space\> f s</kbd>           | Save file                          |
-| <kbd>\<Space\> f t</kbd>           | Open file tree                     |
-| <kbd>\<Space\> f e d</kbd>         | Open emacs dotfile                 |
-| <kbd>\<Space\> f e R</kbd>         | Reload emacs config                |
-| <kbd>\<Space\> p f</kbd>           | Find file in project (fuzzy)       |
-| <kbd>\<Space\> j =</kbd>           | Auto-format code                   |
-| <kbd>\<Space\> j j</kbd>           | Jump anywhere                      |
-| <kbd>\<Space\> w 2</kbd>           | Split into a 2 window layout       |
-| <kbd>\<Space\> w \<Tab\></kbd>     | Navigate to next window            |
-| <kbd>\<Space\> b b</kbd>           | List all buffers                   |
-| <kbd>\<Space\> b x</kbd>           | Close current buffer and window    |
-| <kbd>\<Space\> T s</kbd>           | Switch themes                      |
-| <kbd>\<Space\> s s</kbd>           | Search file                        |
-| <kbd>\<Space\> q q</kbd>           | Kill emacs                         |
-| <kbd>\<Ctrl\>+c \<Ctrl\>+p a</kbd> | Add project to workspace           |
-| <kbd>\<Ctrl\>+c \<Ctrl\>+p d</kbd> | Drop project from workspace        |
-| <kbd>\<Space\> /</kbd>             | Search project (live grep)         |
-| <kbd>\<Space\> g s</kbd>           | Open Magit (git) panel             |
-| <kbd>\<Ctrl\>+n</kbd>              | Select next occurance              |
+| <kbd>\<Space\> ?</kbd>             |              Opens all keybindings |
+| <kbd>\<Space\> \<Space\></kbd>     |           Opens emacs command menu |
+| <kbd>,</kbd>                       |         Opens the major chord menu |
+| <kbd>\<Space\> f s</kbd>           |                          Save file |
+| <kbd>\<Space\> f t</kbd>           |                     Open file tree |
+| <kbd>\<Space\> f e d</kbd>         |                 Open emacs dotfile |
+| <kbd>\<Space\> f e R</kbd>         |                Reload emacs config |
+| <kbd>\<Space\> p f</kbd>           |       Find file in project (fuzzy) |
+| <kbd>\<Space\> j =</kbd>           |                   Auto-format code |
+| <kbd>\<Space\> j j</kbd>           |                      Jump anywhere |
+| <kbd>\<Space\> w 2</kbd>           |       Split into a 2 window layout |
+| <kbd>\<Space\> w \<Tab\></kbd>     |            Navigate to next window |
+| <kbd>\<Space\> b b</kbd>           |                   List all buffers |
+| <kbd>\<Space\> b x</kbd>           |    Close current buffer and window |
+| <kbd>\<Space\> T s</kbd>           |                      Switch themes |
+| <kbd>\<Space\> s s</kbd>           |                        Search file |
+| <kbd>\<Space\> q q</kbd>           |                         Kill emacs |
+| <kbd>\<Ctrl\>+c \<Ctrl\>+p a</kbd> |           Add project to workspace |
+| <kbd>\<Ctrl\>+c \<Ctrl\>+p d</kbd> |        Drop project from workspace |
+| <kbd>\<Space\> /</kbd>             |         Search project (live grep) |
+| <kbd>\<Space\> g s</kbd>           |             Open Magit (git) panel |
+| <kbd>\<Ctrl\>+n</kbd>              |              Select next occurance |
 | <kbd>\<Ctrl\>+h i</kbd>            | Opens the emacs instruction manual |
 
 As you combine these with vim/emacs keybinds, everything just becomes more efficient.
