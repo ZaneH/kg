@@ -57,7 +57,7 @@ under the hood.
 | <kbd>\<Ctrl\>+c \<Ctrl\>+p d</kbd> | Drop project from workspace        |
 | <kbd>\<Space\> /</kbd>             | Search project (live grep)         |
 | <kbd>\<Space\> g s</kbd>           | Open Magit (git) panel             |
-| <kbd>\<Ctrl\>+p</kbd>              | Select next occurance              |
+| <kbd>\<Ctrl\>+n</kbd>              | Select next occurance              |
 | <kbd>\<Ctrl\>+h i</kbd>            | Opens the emacs instruction manual |
 
 As you combine these with vim/emacs keybinds, everything just becomes more efficient.
