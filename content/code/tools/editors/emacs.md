@@ -29,30 +29,38 @@ under the hood.
 - [Modes](https://www.gnu.org/software/emacs/manual/html_node/emacs/Modes.html) - There are major and minor modes. Simply changes how text input affects the buffer.
 - [Packages](https://www.gnu.org/software/emacs/manual/html_node/emacs/Packages.html) - Extending the base functionality of emacs.
 
-## Spacemacs Keybinds
+## Spacemacs Keybind Reference
 
 >[!note]
 >As you press keys, watch the menu that appears at the bottom of the screen to find more useful keybinds.
 
-- <kbd>\<Space\> ?</kbd> - Opens all keybindings
-- <kbd>,</kbd> - Opens the major chord menu
-- <kbd>\<Alt\>+x</kbd> - Open emacs command menu
-- <kbd>\<Space\> f s</kbd> - Save file
-- <kbd>\<Space\> f t</kbd> - Open file tree
-- <kbd>\<Space\> f e d</kbd> - Open emacs dotfile
-- <kbd>\<Space\> f e R</kbd> - Reload emacs config
-- <kbd>\<Space\> p f</kbd> - Find in project (fuzzy)
-- <kbd>\<Space\> j =</kbd> - Auto-format code
-- <kbd>\<Space\> w 2</kbd> - Split into a 2 window layout
-- <kbd>\<Space\> w \<Tab\></kbd> - Navigate to next window
-- <kbd>\<Space\> b b</kbd> - List all buffers
-- <kbd>\<Space\> b x</kbd> - Close current buffer and window
-- <kbd>\<Space\> T s</kbd> - Switch themes
-- <kbd>\<Space\> q q</kbd> - Kill emacs
-- <kbd>\<Space\> q f</kbd> - Kill current frame (leave emacs running)
-- <kbd>\<Ctrl\>+c \<Ctrl\>+p a</kbd> - Add project to workspace
-- <kbd>\<Ctrl\>+c \<Ctrl\>+p d</kbd> - Drop project from workspace
-- <kbd>\<Space\> /</kbd> - Search project (live grep)
+| Keybind                            | Description                        |
+|------------------------------------|-----------------------------------:|
+| <kbd>\<Space\> ?</kbd>             | Opens all keybindings              |
+| <kbd>\<Space\> \<Space\></kbd>     | Opens emacs command menu           |
+| <kbd>,</kbd>                       | Opens the major chord menu         |
+| <kbd>\<Space\> f s</kbd>           | Save file                          |
+| <kbd>\<Space\> f t</kbd>           | Open file tree                     |
+| <kbd>\<Space\> f e d</kbd>         | Open emacs dotfile                 |
+| <kbd>\<Space\> f e R</kbd>         | Reload emacs config                |
+| <kbd>\<Space\> p f</kbd>           | Find file in project (fuzzy)       |
+| <kbd>\<Space\> j =</kbd>           | Auto-format code                   |
+| <kbd>\<Space\> j j</kbd>           | Jump anywhere                      |
+| <kbd>\<Space\> w 2</kbd>           | Split into a 2 window layout       |
+| <kbd>\<Space\> w \<Tab\></kbd>     | Navigate to next window            |
+| <kbd>\<Space\> b b</kbd>           | List all buffers                   |
+| <kbd>\<Space\> b x</kbd>           | Close current buffer and window    |
+| <kbd>\<Space\> T s</kbd>           | Switch themes                      |
+| <kbd>\<Space\> s s</kbd>           | Search file                        |
+| <kbd>\<Space\> q q</kbd>           | Kill emacs                         |
+| <kbd>\<Ctrl\>+c \<Ctrl\>+p a</kbd> | Add project to workspace           |
+| <kbd>\<Ctrl\>+c \<Ctrl\>+p d</kbd> | Drop project from workspace        |
+| <kbd>\<Space\> /</kbd>             | Search project (live grep)         |
+| <kbd>\<Space\> g s</kbd>           | Open Magit (git) panel             |
+| <kbd>\<Ctrl\>+p</kbd>              | Select next occurance              |
+| <kbd>\<Ctrl\>+h i</kbd>            | Opens the emacs instruction manual |
+
+As you combine these with vim/emacs keybinds, everything just becomes more efficient.
 
 ## Performance
 
@@ -68,3 +76,9 @@ emacs running all the time and connect with a client which is installed
 as "Emacs (Client)" on my machine.
 
 Instead of cold starting emacs, it will now have a daemon to instantly attach to.
+
+## Org Mode
+
+There's a rabbit hole called [org mode](https://orgmode.org/guide/) which I encourage you to at least consider.
+
+It's useful for keeping an agenda and creating todos. GDQuest has a [solid intro video here](https://www.youtube.com/watch?v=PVsSOmUB7ic).
