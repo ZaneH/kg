@@ -18,7 +18,7 @@ The next steps are to learn about variables, functions, and control flow. These 
 
 ## Overview
 
-- [[code/tools/editors|Code Editors]] (code)
+- [[code/tools/editors/overview|Code Editors]] (code)
 - [[code/overview/using-a-terminal|Using a Terminal]] (data and code)
 - [[code/overview/frontend-web-development|Frontend Web Development]] (design and code)
 - [[code/overview/backend-web-development|Backend Web Development]] (data and code)
