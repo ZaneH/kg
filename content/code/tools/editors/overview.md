@@ -10,7 +10,7 @@ date: 10-26-24
 
 >[!note]
 >The difference is subtle, using them both would be a better comparison. In my own experience, emacs
->is more than just a text editor.
+>is more than just a text editor. Emacs is also easier to configure in my opinion.
 >
 >They can both be used in the terminal. Emacs comes with a GUI client with some added features.
 
