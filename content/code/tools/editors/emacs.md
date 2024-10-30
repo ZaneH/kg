@@ -36,27 +36,27 @@ under the hood.
 
 | Keybind                            |                        Description |
 |------------------------------------|-----------------------------------:|
-| <kbd>\<Space\> ?</kbd>             |              Opens all keybindings |
-| <kbd>\<Space\> \<Space\></kbd>     |           Opens emacs command menu |
+| <kbd>SPC ?</kbd>                   |              Opens all keybindings |
+| <kbd>SPC SPC</kbd>                 |           Opens emacs command menu |
 | <kbd>,</kbd>                       |         Opens the major chord menu |
-| <kbd>\<Space\> f s</kbd>           |                          Save file |
-| <kbd>\<Space\> f t</kbd>           |                     Open file tree |
-| <kbd>\<Space\> f e d</kbd>         |                 Open emacs dotfile |
-| <kbd>\<Space\> f e R</kbd>         |                Reload emacs config |
-| <kbd>\<Space\> p f</kbd>           |       Find file in project (fuzzy) |
-| <kbd>\<Space\> j =</kbd>           |                   Auto-format code |
-| <kbd>\<Space\> j j</kbd>           |                      Jump anywhere |
-| <kbd>\<Space\> w 2</kbd>           |       Split into a 2 window layout |
-| <kbd>\<Space\> w \<Tab\></kbd>     |            Navigate to next window |
-| <kbd>\<Space\> b b</kbd>           |                   List all buffers |
-| <kbd>\<Space\> b x</kbd>           |    Close current buffer and window |
-| <kbd>\<Space\> T s</kbd>           |                      Switch themes |
-| <kbd>\<Space\> s s</kbd>           |                        Search file |
-| <kbd>\<Space\> q q</kbd>           |                         Kill emacs |
+| <kbd>SPC f s</kbd>                 |                          Save file |
+| <kbd>SPC f t</kbd>                 |                     Open file tree |
+| <kbd>SPC f e d</kbd>               |                 Open emacs dotfile |
+| <kbd>SPC f e R</kbd>               |                Reload emacs config |
+| <kbd>SPC p f</kbd>                 |       Find file in project (fuzzy) |
+| <kbd>SPC j =</kbd>                 |                   Auto-format code |
+| <kbd>SPC j j</kbd>                 |                      Jump anywhere |
+| <kbd>SPC w 2</kbd>                 |       Split into a 2 window layout |
+| <kbd>SPC w \<Tab\></kbd>           |            Navigate to next window |
+| <kbd>SPC b b</kbd>                 |                   List all buffers |
+| <kbd>SPC b x</kbd>                 |    Close current buffer and window |
+| <kbd>SPC T s</kbd>                 |                      Switch themes |
+| <kbd>SPC s s</kbd>                 |                        Search file |
+| <kbd>SPC q q</kbd>                 |                         Kill emacs |
 | <kbd>\<Ctrl\>+c \<Ctrl\>+p a</kbd> |           Add project to workspace |
 | <kbd>\<Ctrl\>+c \<Ctrl\>+p d</kbd> |        Drop project from workspace |
-| <kbd>\<Space\> /</kbd>             |         Search project (live grep) |
-| <kbd>\<Space\> g s</kbd>           |             Open Magit (git) panel |
+| <kbd>SPC /</kbd>                   |         Search project (live grep) |
+| <kbd>SPC g s</kbd>                 |             Open Magit (git) panel |
 | <kbd>\<Ctrl\>+n</kbd>              |              Select next occurance |
 | <kbd>\<Ctrl\>+h i</kbd>            | Opens the emacs instruction manual |
 
@@ -79,6 +79,7 @@ Instead of cold starting emacs, it will now have a daemon to instantly attach to
 
 ## Org Mode
 
-There's a rabbit hole called [org mode](https://orgmode.org/guide/) which I encourage you to at least consider.
+There's a rabbit hole called [org-mode](https://orgmode.org/guide/) which I encourage you to at least consider.
 
 It's useful for keeping an agenda and creating todos. GDQuest has a [solid intro video here](https://www.youtube.com/watch?v=PVsSOmUB7ic).
+A good follow-up is [this video about tagging with org-mode](https://www.youtube.com/watch?v=GP8uOU6SSyk).
