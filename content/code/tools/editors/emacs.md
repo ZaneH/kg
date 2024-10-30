@@ -34,31 +34,31 @@ under the hood.
 >[!note]
 >As you press keys, watch the menu that appears at the bottom of the screen to find more useful keybinds.
 
-| Keybind                            |                        Description |
-|------------------------------------|-----------------------------------:|
-| <kbd>SPC ?</kbd>                   |              Opens all keybindings |
-| <kbd>SPC SPC</kbd>                 |           Opens emacs command menu |
-| <kbd>,</kbd>                       |         Opens the major chord menu |
-| <kbd>SPC f s</kbd>                 |                          Save file |
-| <kbd>SPC f t</kbd>                 |                     Open file tree |
-| <kbd>SPC f e d</kbd>               |                 Open emacs dotfile |
-| <kbd>SPC f e R</kbd>               |                Reload emacs config |
-| <kbd>SPC p f</kbd>                 |       Find file in project (fuzzy) |
-| <kbd>SPC j =</kbd>                 |                   Auto-format code |
-| <kbd>SPC j j</kbd>                 |                      Jump anywhere |
-| <kbd>SPC w 2</kbd>                 |       Split into a 2 window layout |
-| <kbd>SPC w \<Tab\></kbd>           |            Navigate to next window |
-| <kbd>SPC b b</kbd>                 |                   List all buffers |
-| <kbd>SPC b x</kbd>                 |    Close current buffer and window |
-| <kbd>SPC T s</kbd>                 |                      Switch themes |
-| <kbd>SPC s s</kbd>                 |                        Search file |
-| <kbd>SPC q q</kbd>                 |                         Kill emacs |
-| <kbd>\<Ctrl\>+c \<Ctrl\>+p a</kbd> |           Add project to workspace |
-| <kbd>\<Ctrl\>+c \<Ctrl\>+p d</kbd> |        Drop project from workspace |
-| <kbd>SPC /</kbd>                   |         Search project (live grep) |
-| <kbd>SPC g s</kbd>                 |             Open Magit (git) panel |
-| <kbd>\<Ctrl\>+n</kbd>              |              Select next occurance |
-| <kbd>\<Ctrl\>+h i</kbd>            | Opens the emacs instruction manual |
+| Keybind                    |                        Description |
+|----------------------------|-----------------------------------:|
+| <kbd>SPC ?</kbd>           |              Opens all keybindings |
+| <kbd>SPC SPC</kbd>         |           Opens emacs command menu |
+| <kbd>,</kbd>               |         Opens the major chord menu |
+| <kbd>SPC f s</kbd>         |                          Save file |
+| <kbd>SPC f t</kbd>         |                     Open file tree |
+| <kbd>SPC f e d</kbd>       |                 Open emacs dotfile |
+| <kbd>SPC f e R</kbd>       |                Reload emacs config |
+| <kbd>SPC p f</kbd>         |       Find file in project (fuzzy) |
+| <kbd>SPC j =</kbd>         |                   Auto-format code |
+| <kbd>SPC j j</kbd>         |                      Jump anywhere |
+| <kbd>SPC w 2</kbd>         |       Split into a 2 window layout |
+| <kbd>SPC w TAB</kbd>       |            Navigate to next window |
+| <kbd>SPC b b</kbd>         |                   List all buffers |
+| <kbd>SPC b x</kbd>         |    Close current buffer and window |
+| <kbd>SPC T s</kbd>         |                      Switch themes |
+| <kbd>SPC s s</kbd>         |                        Search file |
+| <kbd>SPC q q</kbd>         |                         Kill emacs |
+| <kbd>CTRL+c CTRL+p a</kbd> |           Add project to workspace |
+| <kbd>CTRL+c CTRL+p d</kbd> |        Drop project from workspace |
+| <kbd>SPC /</kbd>           |         Search project (live grep) |
+| <kbd>SPC g s</kbd>         |             Open Magit (git) panel |
+| <kbd>CTRL+n</kbd>          |              Select next occurance |
+| <kbd>CTRL+h i</kbd>        | Opens the emacs instruction manual |
 
 As you combine these with vim/emacs keybinds, everything just becomes more efficient.
 
