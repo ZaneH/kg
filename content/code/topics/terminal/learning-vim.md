@@ -6,7 +6,7 @@ date: 07-21-2024
 
 ## Why use vim?
 
-If you use Linux frequently, you'll have to edit files frequently. In server environments, there is no GUI for VSCode to make those changes so we use `vim` often times. `vim` is a small text-editor, less than 50 MB and it runs completely in the terminal.
+If you use [[code/topics/os/linux|Linux]] frequently, you'll have to edit files frequently. In server environments, there is no GUI for VSCode to make those changes so we use `vim` often times. `vim` is a small text-editor, less than 50 MB and it runs completely in the terminal.
 
 One of the best parts about vim is that it is *fast*. If you watch someone who has learned the shortcuts, it's faster than moving the mouse around and using a text editor in that way.
 
@@ -24,4 +24,4 @@ To continuously get better requires deliberate practice and learning. vim doesn'
 	- Learn even more shortcuts here for navigating around code, jumping between parenthesis or going to function definitions
 	- Deleting inside parenthesis and brackets (`di(`, `da{`)
 	- Selecting around quote marks (`va"`/`va"c`)
-- Level ?: Unsure, not there yet!
+- Level 5: Switch to emacs
