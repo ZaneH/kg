@@ -22,9 +22,4 @@ seen in fields that analyze trends over time.
 - [[math/fields/finance/topics/timeseries/kpss-test|KPSS test]]
   - Hypothesis test to determine if the process is stationary or trend-stationary
 
-## Topics
-
-- [[math/fields/finance/topics/unit-roots|Unit roots]]
-- [[math/fields/finance/topics/stationary-process|Stationary process]]
-
 [^1]: [YouTube - Time Series Modeling and Analysis Playlist](https://www.youtube.com/watch?v=-r7wB9DJtiU&list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK)

@@ -1,5 +1,5 @@
 ---
-title: Stationary process
+title: Stationary Process
 date: 10-31-2024
 ---
 
