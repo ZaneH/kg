@@ -24,4 +24,4 @@ To continuously get better requires deliberate practice and learning. vim doesn'
 	- Learn even more shortcuts here for navigating around code, jumping between parenthesis or going to function definitions
 	- Deleting inside parenthesis and brackets (`di(`, `da{`)
 	- Selecting around quote marks (`va"`/`va"c`)
-- Level 5: Switch to emacs
+- Level 5: Switch to [[code/tools/editors/emacs|Emacs]]
