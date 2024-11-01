@@ -14,3 +14,7 @@ right in some sense. But that's just not true because there's anomalies in the d
 - [[math/fields/finance/overview/timeseries|Time Series]]
 - [[math/fields/finance/topics/unit-roots|Unit roots]]
 - [[math/fields/finance/topics/stationary-process|Stationary Process]]
+
+## Practice
+
+- [[math/fields/finance/interviews/word-problems|Word Problem Practice & Technique]]
