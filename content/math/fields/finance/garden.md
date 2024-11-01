@@ -1,6 +1,6 @@
 ---
 title: Quant Garden
-date: 08-26-2023
+date: 10-31-2024
 ---
 
 > "There's nothing in the price data which will indicate anything about the future-- the price is always
