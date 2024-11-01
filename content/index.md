@@ -5,8 +5,8 @@ Here you'll find my knowledge gardens. It's a bit of an experiment after reading
 
 - [[code/garden|Code Garden]]
   - [[code/topics/ai/intro|Intro to AI]]
-- [[math/fields/finance/garden|Quant Garden]]
-  - [[math/fields/finance/overview/timeseries|Time Series]]
+- [[math/finance/garden|Quant Garden]]
+  - [[math/finance/overview/timeseries|Time Series]]
 
 ### RSS
 

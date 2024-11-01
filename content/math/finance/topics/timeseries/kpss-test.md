@@ -4,7 +4,7 @@ date: 11-01-2024
 ---
 
 The Kwiatkowski-Phillips-Schmidt-Shin (KPSS) tests is used for testing a null hypothesis that a time
-series is stationary around a deterministic trend (i.e. trend-stationary) as opposed to a [[math/fields/finance/topics/unit-root|unit root]].
+series is stationary around a deterministic trend (i.e. trend-stationary) as opposed to a [[math/finance/topics/unit-root|unit root]].
 
 Trend stationary processes are mean-reverting.
 

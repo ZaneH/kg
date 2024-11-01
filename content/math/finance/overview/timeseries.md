@@ -17,9 +17,9 @@ seen in fields that analyze trends over time.
 
 ## Tests
 
-- [[math/fields/finance/topics/timeseries/engle-granger-method|Engle Granger Method]]
+- [[math/finance/topics/timeseries/engle-granger-method|Engle Granger Method]]
   - Useful for determining if there's a correlation between two processes
-- [[math/fields/finance/topics/timeseries/kpss-test|KPSS test]]
+- [[math/finance/topics/timeseries/kpss-test|KPSS test]]
   - Hypothesis test to determine if the process is stationary or trend-stationary
 
 [^1]: [YouTube - Time Series Modeling and Analysis Playlist](https://www.youtube.com/watch?v=-r7wB9DJtiU&list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK)

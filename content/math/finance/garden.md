@@ -12,10 +12,10 @@ date: 10-31-2024
 
 ## Overview
 
-- [[math/fields/finance/overview/timeseries|Time Series]]
-- [[math/fields/finance/topics/unit-roots|Unit roots]]
-- [[math/fields/finance/topics/stationary-process|Stationary Process]]
+- [[math/finance/overview/timeseries|Time Series]]
+- [[math/finance/topics/unit-roots|Unit roots]]
+- [[math/finance/topics/stationary-process|Stationary Process]]
 
 ## Practice
 
-- [[math/fields/finance/interviews/word-problems|Word Problem Practice & Technique]]
+- [[math/finance/interviews/word-problems|Word Problem Practice & Technique]]
