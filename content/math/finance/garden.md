@@ -13,7 +13,7 @@ date: 10-31-2024
 ## Overview
 
 - [[math/finance/overview/timeseries|Time Series]]
-- [[math/finance/topics/unit-roots|Unit roots]]
+- [[math/finance/topics/unit-root|Unit roots]]
 - [[math/finance/topics/stationary-process|Stationary Process]]
 
 ## Practice
