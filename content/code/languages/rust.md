@@ -26,3 +26,19 @@ The motivation for learning Rust was slow to develop. There isn't really a reaso
 ## Solana
 
 **02/26/2024** – Coming back to Rust for [[code/topics/blockchain/solana|Solana smart contract development]]. We'll see...
+
+**12/15/2024** – That was fast. I certainly wasn't learning Rust that whole time but I've picked up quite a bit. Working with Solana has forced me to read and write Rust quite often. I'm still really interested in MEV and financial markets, and Rust is one of the gold standards for low-level programming in that field.
+
+## Good to Know
+
+- Don't forget your feature flags. Spent too long wondering why basic dependencies weren't working.
+- Allow two different data types in a JSON field with Serde:
+
+```rs
+#[derive(Debug, Deserialize)]
+#[serde(untagged)] // Don't forget this!
+enum VariedValue {
+    Name(String),
+    Amount(u32),
+}
+```
